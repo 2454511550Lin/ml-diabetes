@@ -1,613 +1,623 @@
-,0
-"('islet', 'SIGNED', 'cyan')",22.938595119620135
-"('islet', 'SIGNED', 'brown')",25.020016241705655
-"('islet', 'SIGNED', 'darkorange')",25.086907427769074
-"('islet', 'SIGNED', 'darkgrey')",24.792970306370155
-"('islet', 'SIGNED', 'darkolivegreen')",26.01327612886695
-"('islet', 'SIGNED', 'darkred')",25.691866192338743
-"('islet', 'SIGNED', 'darkmagenta')",27.391812666080334
-"('islet', 'SIGNED', 'lightgreen')",21.341839665661386
-"('islet', 'SIGNED', 'grey60')",25.874103657238397
-"('islet', 'SIGNED', 'lightcyan')",23.775761506677743
-"('islet', 'SIGNED', 'midnightblue')",26.00678460510241
-"('islet', 'SIGNED', 'magenta')",27.079140496655356
-"('islet', 'SIGNED', 'blue')",22.79392635880043
-"('islet', 'SIGNED', 'greenyellow')",22.614589022718082
-"('islet', 'SIGNED', 'green')",24.369232092092844
-"('islet', 'SIGNED', 'darkturquoise')",26.093573677886674
-"('islet', 'SIGNED', 'darkgreen')",26.457510454017264
-"('islet', 'SIGNED', 'black')",25.646278874365517
-"('islet', 'SIGNED', 'orange')",26.65495625016938
-"('islet', 'SIGNED', 'lightyellow')",25.495278616397236
-"('islet', 'SIGNED', 'pink')",24.07130245401845
-"('islet', 'SIGNED', 'skyblue3')",26.792191659980453
-"('islet', 'SIGNED', 'steelblue')",24.506980265450952
-"('islet', 'SIGNED', 'salmon')",26.51144718456548
-"('islet', 'SIGNED', 'red')",21.6246335928494
-"('islet', 'SIGNED', 'paleturquoise')",26.52121051444612
-"('islet', 'SIGNED', 'sienna3')",25.303761203078444
-"('islet', 'SIGNED', 'yellowgreen')",28.414968571125225
-"('islet', 'SIGNED', 'saddlebrown')",26.598404255176327
-"('islet', 'SIGNED', 'yellow')",19.639636036683367
-"('islet', 'SIGNED', 'tan')",23.390415116273854
-"('islet', 'SIGNED', 'purple')",25.779155457785773
-"('islet', 'SIGNED', 'royalblue')",27.74814613819289
-"('islet', 'SIGNED', 'skyblue')",24.527432243430805
-"('islet', 'SIGNED', 'turquoise')",20.02064116017407
-"('islet', 'SIGNED', 'white')",26.415415405807764
-"('islet', 'UNSIGNED', 'antiquewhite4')",27.123131037228703
-"('islet', 'SIGNED', 'plum1')",27.669621629025677
-"('islet', 'SIGNED', 'violet')",23.146782792717428
-"('islet', 'UNSIGNED', 'bisque4')",23.196353637589276
-"('islet', 'UNSIGNED', 'darkturquoise')",24.476542939680034
-"('islet', 'UNSIGNED', 'darkgreen')",27.64536067118037
-"('islet', 'UNSIGNED', 'darkgrey')",25.612988512269
-"('islet', 'UNSIGNED', 'darkseagreen4')",27.57099298214169
-"('islet', 'UNSIGNED', 'green')",25.423604685139622
-"('islet', 'UNSIGNED', 'floralwhite')",27.740199636875623
-"('islet', 'UNSIGNED', 'darkmagenta')",24.274692432651566
-"('islet', 'UNSIGNED', 'coral2')",26.382536388073884
-"('islet', 'UNSIGNED', 'cyan')",26.287591423320777
-"('islet', 'UNSIGNED', 'coral1')",26.669876147438114
-"('islet', 'UNSIGNED', 'black')",23.88820755580515
-"('islet', 'UNSIGNED', 'greenyellow')",22.727649794286993
-"('islet', 'UNSIGNED', 'darkslateblue')",25.78557608542342
-"('islet', 'UNSIGNED', 'brown')",23.89069262556539
-"('islet', 'UNSIGNED', 'darkolivegreen')",24.566137296984117
-"('islet', 'UNSIGNED', 'darkred')",26.426976337165094
-"('islet', 'UNSIGNED', 'darkorange')",22.467592469210278
-"('islet', 'UNSIGNED', 'blue')",25.2673994474147
-"('islet', 'UNSIGNED', 'darkorange2')",26.975955119396723
-"('islet', 'UNSIGNED', 'brown4')",26.037392118383984
-"('islet', 'UNSIGNED', 'lightpink4')",25.758214552631216
-"('islet', 'UNSIGNED', 'honeydew1')",27.89655350906324
-"('islet', 'UNSIGNED', 'navajowhite2')",26.40995651700723
-"('islet', 'UNSIGNED', 'orangered3')",24.710581359539777
-"('islet', 'UNSIGNED', 'mediumorchid')",27.286557120118637
-"('islet', 'UNSIGNED', 'ivory')",23.263211890893995
-"('islet', 'UNSIGNED', 'lightgreen')",25.843218757528703
-"('islet', 'UNSIGNED', 'grey60')",22.023636829206346
-"('islet', 'UNSIGNED', 'lavenderblush3')",26.688097164629532
-"('islet', 'UNSIGNED', 'maroon')",25.921457791150466
-"('islet', 'UNSIGNED', 'magenta')",26.247291789495158
-"('islet', 'UNSIGNED', 'orange')",23.429216457053297
-"('islet', 'UNSIGNED', 'lightsteelblue')",25.731000031400608
-"('islet', 'UNSIGNED', 'lightcyan')",26.083473610537666
-"('islet', 'UNSIGNED', 'lightcyan1')",23.82311828128562
-"('islet', 'UNSIGNED', 'lightsteelblue1')",24.059707333882425
-"('islet', 'UNSIGNED', 'mediumpurple3')",22.239630735515558
-"('islet', 'UNSIGNED', 'midnightblue')",23.650874614155626
-"('islet', 'UNSIGNED', 'mediumpurple2')",24.154468333198825
-"('islet', 'UNSIGNED', 'lightyellow')",25.905145080641628
-"('islet', 'UNSIGNED', 'saddlebrown')",28.953544201954173
-"('islet', 'UNSIGNED', 'palevioletred3')",24.209050552140692
-"('islet', 'UNSIGNED', 'plum')",27.671698556659656
-"('islet', 'UNSIGNED', 'paleturquoise')",25.40638369428564
-"('islet', 'UNSIGNED', 'steelblue')",24.370361309177344
-"('islet', 'UNSIGNED', 'tan')",25.582492223413222
-"('islet', 'UNSIGNED', 'salmon4')",25.252483811493214
-"('islet', 'UNSIGNED', 'skyblue1')",27.03175854650162
-"('islet', 'UNSIGNED', 'sienna3')",26.114765815616494
-"('islet', 'UNSIGNED', 'salmon')",28.404012822461944
-"('islet', 'UNSIGNED', 'pink')",24.082706751910457
-"('islet', 'UNSIGNED', 'purple')",24.296140395651605
-"('islet', 'UNSIGNED', 'skyblue')",22.664285365999145
-"('islet', 'UNSIGNED', 'royalblue')",27.214407583153253
-"('islet', 'UNSIGNED', 'skyblue2')",24.50014855746094
-"('islet', 'UNSIGNED', 'plum1')",26.42069151972818
-"('islet', 'UNSIGNED', 'orangered4')",25.843081156616982
-"('islet', 'UNSIGNED', 'red')",25.775163152612894
-"('islet', 'UNSIGNED', 'plum2')",27.159807524633727
-"('islet', 'UNSIGNED', 'skyblue3')",26.381116058803368
-"('liver', 'SIGNED', 'floralwhite')",27.323600108005643
-"('islet', 'UNSIGNED', 'yellow')",23.42384550837495
-"('islet', 'UNSIGNED', 'yellowgreen')",26.195405043427115
-"('islet', 'UNSIGNED', 'turquoise')",20.014333226367057
-"('liver', 'SIGNED', 'darkgreen')",25.839402542532525
-"('liver', 'SIGNED', 'black')",24.205721367646284
-"('liver', 'SIGNED', 'blue')",25.407402925030524
-"('islet', 'UNSIGNED', 'thistle2')",25.75701048978977
-"('liver', 'SIGNED', 'cyan')",23.399851841350603
-"('islet', 'UNSIGNED', 'yellow4')",26.97856709170079
-"('liver', 'SIGNED', 'darkgrey')",23.778130846589434
-"('liver', 'SIGNED', 'brown')",24.558440085450442
-"('islet', 'UNSIGNED', 'thistle1')",27.676173607432293
-"('liver', 'SIGNED', 'darkolivegreen')",24.988857584094678
-"('liver', 'SIGNED', 'darkmagenta')",24.930066376737884
-"('islet', 'UNSIGNED', 'white')",27.396983117482186
-"('liver', 'SIGNED', 'darkturquoise')",27.819802002863582
-"('islet', 'UNSIGNED', 'violet')",26.50146494033743
-"('liver', 'SIGNED', 'darkred')",24.75396178102767
-"('liver', 'SIGNED', 'darkorange')",24.140472489146667
-"('liver', 'SIGNED', 'ivory')",26.91717192717601
-"('liver', 'SIGNED', 'pink')",27.182083581179544
-"('liver', 'SIGNED', 'mediumpurple3')",27.5858786024622
-"('liver', 'SIGNED', 'purple')",25.771426158307253
-"('liver', 'SIGNED', 'lightcyan1')",26.656559507627932
-"('liver', 'SIGNED', 'midnightblue')",27.697292541838824
-"('liver', 'SIGNED', 'lightgreen')",26.793645520082286
-"('liver', 'SIGNED', 'plum1')",27.14430957480769
-"('liver', 'SIGNED', 'lightyellow')",23.8040280379175
-"('liver', 'SIGNED', 'greenyellow')",28.482257544258243
-"('liver', 'SIGNED', 'lightsteelblue1')",25.97917884297586
-"('liver', 'SIGNED', 'royalblue')",25.307103917002387
-"('liver', 'SIGNED', 'lightcyan')",20.295040669938434
-"('liver', 'SIGNED', 'orangered4')",26.61614562702086
-"('liver', 'SIGNED', 'grey60')",23.68167438463097
-"('liver', 'SIGNED', 'green')",26.998318967465067
-"('liver', 'SIGNED', 'magenta')",24.88285438466849
-"('liver', 'SIGNED', 'paleturquoise')",26.05202045456983
-"('liver', 'SIGNED', 'red')",27.483288812006407
-"('liver', 'SIGNED', 'orange')",29.693153666299953
-"('liver', 'UNSIGNED', 'brown4')",27.20668718237921
-"('liver', 'UNSIGNED', 'black')",24.37387068929332
-"('liver', 'SIGNED', 'yellowgreen')",28.06087536680706
-"('liver', 'UNSIGNED', 'brown2')",26.99078280365309
-"('liver', 'SIGNED', 'steelblue')",26.5312045230758
-"('liver', 'UNSIGNED', 'antiquewhite4')",27.144626361382524
-"('liver', 'UNSIGNED', 'blue2')",27.45603880762941
-"('liver', 'SIGNED', 'saddlebrown')",22.45406204923943
-"('liver', 'SIGNED', 'sienna3')",27.385775197691732
-"('liver', 'SIGNED', 'salmon')",22.364121208003652
-"('liver', 'SIGNED', 'violet')",26.776214066484872
-"('liver', 'UNSIGNED', 'bisque4')",27.386019036712227
-"('liver', 'SIGNED', 'skyblue3')",27.96344339115164
-"('liver', 'SIGNED', 'tan')",26.188351882082706
-"('liver', 'SIGNED', 'skyblue')",24.25619317956629
-"('liver', 'SIGNED', 'white')",22.911826877130405
-"('liver', 'UNSIGNED', 'blue')",24.19316598718659
-"('liver', 'UNSIGNED', 'brown')",26.257354107981534
-"('liver', 'SIGNED', 'turquoise')",24.184099897272716
-"('liver', 'SIGNED', 'yellow')",28.61270917215161
-"('liver', 'UNSIGNED', 'darkviolet')",26.120505486268346
-"('liver', 'UNSIGNED', 'greenyellow')",28.08757837521559
-"('liver', 'UNSIGNED', 'darkorange')",27.056248104469518
-"('liver', 'UNSIGNED', 'darkred')",23.879760770837592
-"('liver', 'UNSIGNED', 'darkorange2')",27.278958486589406
-"('liver', 'UNSIGNED', 'darkseagreen4')",29.498979856664732
-"('liver', 'UNSIGNED', 'darkgreen')",24.92192435197903
-"('liver', 'UNSIGNED', 'darkolivegreen')",27.37510244750473
-"('liver', 'UNSIGNED', 'coral2')",26.59166737549637
-"('liver', 'UNSIGNED', 'coral1')",28.208033455400194
-"('liver', 'UNSIGNED', 'firebrick4')",27.302296921719645
-"('liver', 'UNSIGNED', 'green')",27.746424667335308
-"('liver', 'UNSIGNED', 'darkmagenta')",25.065008325325028
-"('liver', 'UNSIGNED', 'darkolivegreen4')",26.61764367724481
-"('liver', 'UNSIGNED', 'darkslateblue')",26.969919444470353
-"('liver', 'UNSIGNED', 'cyan')",27.90287697592132
-"('liver', 'UNSIGNED', 'darkgrey')",26.68327427567274
-"('liver', 'UNSIGNED', 'darkturquoise')",27.432208081785227
-"('liver', 'UNSIGNED', 'floralwhite')",26.67469100589291
-"('liver', 'UNSIGNED', 'darkseagreen3')",27.970197910581028
-"('liver', 'UNSIGNED', 'honeydew')",27.657300652433094
-"('liver', 'UNSIGNED', 'lightcyan')",22.84722232310463
-"('liver', 'UNSIGNED', 'maroon')",27.762434721177375
-"('liver', 'UNSIGNED', 'grey60')",29.16517750311031
-"('liver', 'UNSIGNED', 'mediumorchid')",26.303530834198902
-"('liver', 'UNSIGNED', 'lightyellow')",28.219116313214375
-"('liver', 'UNSIGNED', 'lavenderblush3')",28.771522064964046
-"('liver', 'UNSIGNED', 'ivory')",24.706060159638106
-"('liver', 'UNSIGNED', 'magenta4')",25.804559780131875
-"('liver', 'UNSIGNED', 'magenta')",23.55688723162203
-"('liver', 'UNSIGNED', 'lightpink4')",23.97714512339911
-"('liver', 'UNSIGNED', 'lightsteelblue')",25.39330637074037
-"('liver', 'UNSIGNED', 'lightgreen')",27.35071314661177
-"('liver', 'UNSIGNED', 'lightcyan1')",27.387404863067786
-"('liver', 'UNSIGNED', 'indianred4')",24.245297212846364
-"('liver', 'UNSIGNED', 'lightpink3')",26.469728291061053
-"('liver', 'UNSIGNED', 'lavenderblush2')",24.389206349502874
-"('liver', 'UNSIGNED', 'honeydew1')",27.393557580486892
-"('liver', 'UNSIGNED', 'lightsteelblue1')",28.685777388379947
-"('liver', 'UNSIGNED', 'lightcoral')",25.317838112306113
-"('liver', 'UNSIGNED', 'plum')",25.931757327610867
-"('liver', 'UNSIGNED', 'paleturquoise')",24.648113956858733
-"('liver', 'UNSIGNED', 'mediumpurple2')",27.228553519570525
-"('liver', 'UNSIGNED', 'red')",28.692615886271682
-"('liver', 'UNSIGNED', 'navajowhite2')",25.803777022600226
-"('liver', 'UNSIGNED', 'mediumpurple3')",26.23422855637529
-"('liver', 'UNSIGNED', 'orangered4')",25.73082847315616
-"('liver', 'UNSIGNED', 'saddlebrown')",23.640588880051332
-"('liver', 'UNSIGNED', 'plum1')",24.91748571746082
-"('liver', 'UNSIGNED', 'purple')",27.619766082828427
-"('liver', 'UNSIGNED', 'palevioletred2')",28.16646275471732
-"('liver', 'UNSIGNED', 'midnightblue')",26.056418299094247
-"('liver', 'UNSIGNED', 'orangered3')",27.13898063209863
-"('liver', 'UNSIGNED', 'plum2')",25.538012586176663
-"('liver', 'UNSIGNED', 'royalblue')",25.593035736671265
-"('liver', 'UNSIGNED', 'palevioletred3')",26.825990694339545
-"('liver', 'UNSIGNED', 'navajowhite1')",26.53524514537548
-"('liver', 'UNSIGNED', 'plum3')",26.84635045813354
-"('liver', 'UNSIGNED', 'orange')",26.387287874249633
-"('liver', 'UNSIGNED', 'pink')",27.341628105468345
-"('liver', 'UNSIGNED', 'salmon4')",27.38569642004735
-"('liver', 'UNSIGNED', 'steelblue')",22.860411393313566
-"('liver', 'UNSIGNED', 'skyblue')",26.65047922686061
-"('liver', 'UNSIGNED', 'salmon2')",26.769838905237215
-"('liver', 'UNSIGNED', 'skyblue3')",25.2810334853575
-"('liver', 'UNSIGNED', 'thistle3')",26.790564373255844
-"('liver', 'UNSIGNED', 'white')",27.61995012918803
-"('liver', 'UNSIGNED', 'violet')",28.56942595830425
-"('liver', 'UNSIGNED', 'skyblue2')",26.14117476186083
-"('liver', 'UNSIGNED', 'salmon')",28.595580968479776
-"('liver', 'UNSIGNED', 'tan')",28.85820585955829
-"('liver', 'UNSIGNED', 'thistle1')",27.16854569551287
-"('liver', 'UNSIGNED', 'skyblue1')",26.109594377321336
-"('liver', 'UNSIGNED', 'yellow4')",27.05225425198561
-"('liver', 'UNSIGNED', 'thistle2')",26.07898738810009
-"('liver', 'UNSIGNED', 'yellow')",26.0454966557497
-"('liver', 'UNSIGNED', 'yellowgreen')",25.786491565252156
-"('liver', 'UNSIGNED', 'turquoise')",24.303032726649445
-"('liver', 'UNSIGNED', 'sienna3')",24.852698422601733
-"('liver', 'UNSIGNED', 'thistle')",26.302856627862226
-"('adipose', 'SIGNED', 'greenyellow')",24.0665527495274
-"('adipose', 'SIGNED', 'darkslateblue')",25.438010139184797
-"('adipose', 'SIGNED', 'green')",25.203910643083873
-"('adipose', 'SIGNED', 'darkorange')",26.610734668996162
-"('adipose', 'SIGNED', 'floralwhite')",25.801004771126134
-"('adipose', 'SIGNED', 'bisque4')",20.380972965183595
-"('adipose', 'SIGNED', 'darkgreen')",25.023324890790597
-"('adipose', 'SIGNED', 'brown4')",24.733943983889187
-"('adipose', 'SIGNED', 'darkturquoise')",23.228552266397518
-"('adipose', 'SIGNED', 'ivory')",26.74850356752109
-"('adipose', 'SIGNED', 'blue')",24.479216972982407
-"('adipose', 'SIGNED', 'darkolivegreen')",25.909108314896784
-"('adipose', 'SIGNED', 'grey60')",25.53960317790312
-"('adipose', 'SIGNED', 'darkorange2')",28.150290890677006
-"('adipose', 'SIGNED', 'darkgrey')",28.940905110014143
-"('adipose', 'SIGNED', 'darkred')",23.830302070609847
-"('adipose', 'SIGNED', 'cyan')",22.904605928614824
-"('adipose', 'SIGNED', 'brown')",24.585020329247914
-"('adipose', 'SIGNED', 'black')",26.849055846864417
-"('adipose', 'SIGNED', 'darkmagenta')",25.541449119029092
-"('adipose', 'SIGNED', 'maroon')",26.705507542033715
-"('adipose', 'SIGNED', 'lavenderblush3')",28.118775982031423
-"('adipose', 'SIGNED', 'midnightblue')",24.223876188279583
-"('adipose', 'SIGNED', 'lightyellow')",25.7643569143943
-"('adipose', 'SIGNED', 'lightgreen')",26.50148287288182
-"('adipose', 'SIGNED', 'mediumpurple3')",24.10454895892141
-"('adipose', 'SIGNED', 'lightsteelblue1')",24.91194269494812
-"('adipose', 'SIGNED', 'lightcyan')",25.26239553796512
-"('adipose', 'SIGNED', 'plum2')",26.70127367353356
-"('adipose', 'SIGNED', 'purple')",25.669016131087098
-"('adipose', 'SIGNED', 'palevioletred3')",25.214084131105164
-"('adipose', 'SIGNED', 'navajowhite2')",26.843718885378664
-"('adipose', 'SIGNED', 'plum1')",26.230645247355795
-"('adipose', 'SIGNED', 'orange')",22.845602696199016
-"('adipose', 'SIGNED', 'lightcyan1')",26.462845277072507
-"('adipose', 'SIGNED', 'lightpink4')",25.152006554629917
-"('adipose', 'SIGNED', 'pink')",22.664477558281376
-"('adipose', 'SIGNED', 'paleturquoise')",23.350529861261677
-"('adipose', 'SIGNED', 'magenta')",20.05198113424479
-"('adipose', 'SIGNED', 'orangered4')",23.712598875628924
-"('adipose', 'SIGNED', 'royalblue')",23.406737292567172
-"('adipose', 'SIGNED', 'thistle2')",28.39305709141448
-"('adipose', 'SIGNED', 'salmon')",25.705000240668983
-"('adipose', 'SIGNED', 'red')",21.394726800120644
-"('adipose', 'SIGNED', 'yellowgreen')",24.871124272216466
-"('adipose', 'SIGNED', 'yellow')",22.128073233259066
-"('adipose', 'UNSIGNED', 'bisque4')",22.16807170544072
-"('adipose', 'SIGNED', 'saddlebrown')",25.840494544322212
-"('adipose', 'SIGNED', 'skyblue3')",26.350727710842882
-"('adipose', 'UNSIGNED', 'black')",25.133989900825537
-"('adipose', 'SIGNED', 'turquoise')",22.673971383312328
-"('adipose', 'UNSIGNED', 'antiquewhite4')",29.104287057527095
-"('adipose', 'SIGNED', 'violet')",25.957260903470647
-"('adipose', 'SIGNED', 'tan')",19.89015827447415
-"('adipose', 'SIGNED', 'salmon4')",22.701811077710232
-"('adipose', 'SIGNED', 'skyblue')",25.98920908875154
-"('adipose', 'SIGNED', 'white')",21.85442288137524
-"('adipose', 'SIGNED', 'thistle1')",28.806014114644583
-"('adipose', 'SIGNED', 'sienna3')",24.6112096123263
-"('adipose', 'SIGNED', 'steelblue')",25.34333648177055
-"('adipose', 'UNSIGNED', 'coral2')",25.169329920207435
-"('adipose', 'UNSIGNED', 'darkseagreen4')",25.424073595081058
-"('adipose', 'UNSIGNED', 'darkorange')",26.525876148276712
-"('adipose', 'UNSIGNED', 'brown')",28.224306488581156
-"('adipose', 'UNSIGNED', 'darkgreen')",25.65335215811993
-"('adipose', 'UNSIGNED', 'grey60')",26.608242509032216
-"('adipose', 'UNSIGNED', 'cyan')",25.400558485963177
-"('adipose', 'UNSIGNED', 'darkturquoise')",26.531433184206517
-"('adipose', 'UNSIGNED', 'brown4')",25.921876406102704
-"('adipose', 'UNSIGNED', 'darkgrey')",24.1219868295486
-"('adipose', 'UNSIGNED', 'darkorange2')",25.682168453062616
-"('adipose', 'UNSIGNED', 'greenyellow')",26.408414301111794
-"('adipose', 'UNSIGNED', 'green')",23.401613357294288
-"('adipose', 'UNSIGNED', 'coral1')",24.7530822895831
-"('adipose', 'UNSIGNED', 'floralwhite')",26.115367727775908
-"('adipose', 'UNSIGNED', 'darkslateblue')",27.98007987474158
-"('adipose', 'UNSIGNED', 'blue')",21.777557036163007
-"('adipose', 'UNSIGNED', 'darkolivegreen')",26.682052417398598
-"('adipose', 'UNSIGNED', 'darkmagenta')",27.289376781819406
-"('adipose', 'UNSIGNED', 'darkred')",26.059466353522144
-"('adipose', 'UNSIGNED', 'lavenderblush3')",22.508850231274653
-"('adipose', 'UNSIGNED', 'lightsteelblue1')",26.722451662091647
-"('adipose', 'UNSIGNED', 'orange')",21.0204296669681
-"('adipose', 'UNSIGNED', 'mediumpurple3')",27.764241567905003
-"('adipose', 'UNSIGNED', 'ivory')",26.411240310122412
-"('adipose', 'UNSIGNED', 'lightgreen')",26.09679343234117
-"('adipose', 'UNSIGNED', 'mediumorchid')",24.91742207372495
-"('adipose', 'UNSIGNED', 'indianred4')",27.532818693102673
-"('adipose', 'UNSIGNED', 'magenta')",20.91301780464953
-"('adipose', 'UNSIGNED', 'lightcyan')",26.096864030859145
-"('adipose', 'UNSIGNED', 'lightyellow')",26.723623769263742
-"('adipose', 'UNSIGNED', 'mediumpurple2')",27.51052105837204
-"('adipose', 'UNSIGNED', 'lightpink4')",26.711498627416947
-"('adipose', 'UNSIGNED', 'honeydew1')",27.503209497231285
-"('adipose', 'UNSIGNED', 'navajowhite2')",27.184027163598095
-"('adipose', 'UNSIGNED', 'maroon')",25.01819534868433
-"('adipose', 'UNSIGNED', 'lightcyan1')",26.16161605285989
-"('adipose', 'UNSIGNED', 'lightsteelblue')",26.821746349862753
-"('adipose', 'UNSIGNED', 'midnightblue')",23.81618001045615
-"('adipose', 'UNSIGNED', 'lightcoral')",28.009936076669007
-"('adipose', 'UNSIGNED', 'plum')",27.951831975606346
-"('adipose', 'UNSIGNED', 'orangered4')",24.10899386238343
-"('adipose', 'UNSIGNED', 'skyblue2')",27.050587237057112
-"('adipose', 'UNSIGNED', 'palevioletred3')",26.98184208005895
-"('adipose', 'UNSIGNED', 'skyblue')",26.67166523091828
-"('adipose', 'UNSIGNED', 'salmon4')",25.46167778438723
-"('adipose', 'UNSIGNED', 'skyblue3')",26.568732980632394
-"('adipose', 'UNSIGNED', 'pink')",20.971481635976236
-"('adipose', 'UNSIGNED', 'plum2')",25.00321168832261
-"('adipose', 'UNSIGNED', 'salmon')",26.481893280056035
-"('adipose', 'UNSIGNED', 'saddlebrown')",25.505744355751535
-"('adipose', 'UNSIGNED', 'royalblue')",25.939032701397174
-"('adipose', 'UNSIGNED', 'sienna3')",25.609864019951516
-"('adipose', 'UNSIGNED', 'skyblue1')",27.065975624841094
-"('adipose', 'UNSIGNED', 'orangered3')",27.439762121044993
-"('adipose', 'UNSIGNED', 'red')",22.94705993745819
-"('adipose', 'UNSIGNED', 'purple')",25.294421192103776
-"('adipose', 'UNSIGNED', 'steelblue')",28.384408591644107
-"('adipose', 'UNSIGNED', 'paleturquoise')",24.910196703727078
-"('adipose', 'UNSIGNED', 'plum1')",23.68178971825413
-"('kidney', 'SIGNED', 'darkgreen')",24.15631764809351
-"('kidney', 'SIGNED', 'darkolivegreen')",26.12886737586842
-"('adipose', 'UNSIGNED', 'tan')",22.46423632704455
-"('kidney', 'SIGNED', 'brown4')",27.704143843331057
-"('kidney', 'SIGNED', 'brown')",21.95742958106612
-"('kidney', 'SIGNED', 'bisque4')",25.442864644311587
-"('kidney', 'SIGNED', 'darkorange')",26.825217491602952
-"('adipose', 'UNSIGNED', 'yellow4')",24.665837334334416
-"('kidney', 'SIGNED', 'darkmagenta')",26.04884177799141
-"('adipose', 'UNSIGNED', 'yellowgreen')",25.57183175769898
-"('kidney', 'SIGNED', 'darkgrey')",24.969294153944013
-"('adipose', 'UNSIGNED', 'violet')",25.162414116709513
-"('kidney', 'SIGNED', 'blue')",24.131424541518527
-"('adipose', 'UNSIGNED', 'yellow')",25.98429626964996
-"('adipose', 'UNSIGNED', 'turquoise')",22.236826331397964
-"('kidney', 'SIGNED', 'cyan')",24.343242831149084
-"('adipose', 'UNSIGNED', 'thistle2')",26.632808685713417
-"('adipose', 'UNSIGNED', 'thistle1')",25.963522822045814
-"('adipose', 'UNSIGNED', 'white')",26.207979219713433
-"('kidney', 'SIGNED', 'black')",23.343021813220027
-"('kidney', 'SIGNED', 'maroon')",25.862137441304654
-"('kidney', 'SIGNED', 'lightgreen')",25.77208604156963
-"('kidney', 'SIGNED', 'navajowhite2')",27.555458635403934
-"('kidney', 'SIGNED', 'darkred')",26.793142192112985
-"('kidney', 'SIGNED', 'mediumpurple3')",26.095392682114237
-"('kidney', 'SIGNED', 'ivory')",25.07089487001094
-"('kidney', 'SIGNED', 'lightpink4')",28.77821651882586
-"('kidney', 'SIGNED', 'lightcyan1')",27.445661705400482
-"('kidney', 'SIGNED', 'lightsteelblue1')",22.475548051812584
-"('kidney', 'SIGNED', 'darkslateblue')",26.508766837404067
-"('kidney', 'SIGNED', 'lightcyan')",23.692953379097663
-"('kidney', 'SIGNED', 'magenta')",25.402366626923705
-"('kidney', 'SIGNED', 'darkorange2')",26.526819360339758
-"('kidney', 'SIGNED', 'midnightblue')",21.022714404413172
-"('kidney', 'SIGNED', 'greenyellow')",22.58522226530907
-"('kidney', 'SIGNED', 'grey60')",22.380626320894635
-"('kidney', 'SIGNED', 'lightyellow')",29.34542635757425
-"('kidney', 'SIGNED', 'green')",26.087868022837295
-"('kidney', 'SIGNED', 'floralwhite')",24.00240570983943
-"('kidney', 'SIGNED', 'darkturquoise')",24.311602682675645
-"('kidney', 'SIGNED', 'thistle1')",21.051624421106723
-"('kidney', 'SIGNED', 'salmon')",22.185444709783933
-"('kidney', 'SIGNED', 'tan')",23.166963173470144
-"('kidney', 'SIGNED', 'purple')",22.766753895392927
-"('kidney', 'SIGNED', 'orangered4')",24.842628618431235
-"('kidney', 'SIGNED', 'red')",24.47593733473925
-"('kidney', 'SIGNED', 'saddlebrown')",24.136530058363704
-"('kidney', 'SIGNED', 'skyblue')",24.69705104980851
-"('kidney', 'SIGNED', 'paleturquoise')",28.652191743536452
-"('kidney', 'SIGNED', 'orange')",22.856376702986044
-"('kidney', 'SIGNED', 'sienna3')",24.264335813626122
-"('kidney', 'SIGNED', 'palevioletred3')",26.398033030395577
-"('kidney', 'SIGNED', 'steelblue')",23.66496038270615
-"('kidney', 'SIGNED', 'skyblue3')",26.86933800183865
-"('kidney', 'SIGNED', 'royalblue')",25.86380330900307
-"('kidney', 'SIGNED', 'plum2')",26.653497438967435
-"('kidney', 'SIGNED', 'salmon4')",25.84237027442566
-"('kidney', 'SIGNED', 'plum1')",27.233921021178904
-"('kidney', 'SIGNED', 'thistle2')",23.097413816929404
-"('kidney', 'SIGNED', 'pink')",22.02750158590575
-"('kidney', 'SIGNED', 'white')",25.59975377677977
-"('kidney', 'UNSIGNED', 'coral3')",27.035672500545406
-"('kidney', 'UNSIGNED', 'brown')",26.179874925499824
-"('kidney', 'UNSIGNED', 'coral1')",26.56686152163184
-"('kidney', 'UNSIGNED', 'bisque4')",26.4672235373072
-"('kidney', 'UNSIGNED', 'cyan')",26.49027342532116
-"('kidney', 'UNSIGNED', 'black')",24.77797556805796
-"('kidney', 'UNSIGNED', 'coral')",27.85632953163458
-"('kidney', 'UNSIGNED', 'darkgreen')",25.502504997918944
-"('kidney', 'SIGNED', 'violet')",26.264943383164457
-"('kidney', 'UNSIGNED', 'antiquewhite2')",26.853776130787182
-"('kidney', 'UNSIGNED', 'brown2')",24.011011338302126
-"('kidney', 'SIGNED', 'yellowgreen')",25.328543237467745
-"('kidney', 'UNSIGNED', 'antiquewhite4')",24.860339885797103
-"('kidney', 'UNSIGNED', 'brown4')",26.0170247027585
-"('kidney', 'SIGNED', 'turquoise')",22.973526530429936
-"('kidney', 'UNSIGNED', 'blue')",24.359010197809216
-"('kidney', 'UNSIGNED', 'coral2')",22.982506910561476
-"('kidney', 'UNSIGNED', 'blue2')",27.439613614644504
-"('kidney', 'SIGNED', 'yellow')",23.62236170610918
-"('kidney', 'UNSIGNED', 'honeydew')",27.343964318003124
-"('kidney', 'UNSIGNED', 'green')",23.665724016834258
-"('kidney', 'UNSIGNED', 'darkolivegreen')",25.7567541494997
-"('kidney', 'UNSIGNED', 'darkslateblue')",26.864467670758764
-"('kidney', 'UNSIGNED', 'firebrick4')",27.094023878537715
-"('kidney', 'UNSIGNED', 'darkviolet')",18.771664198547587
-"('kidney', 'UNSIGNED', 'darkseagreen3')",26.4471717558204
-"('kidney', 'UNSIGNED', 'grey60')",22.79203812547068
-"('kidney', 'UNSIGNED', 'darkred')",25.519403054952082
-"('kidney', 'UNSIGNED', 'indianred4')",27.054938856109363
-"('kidney', 'UNSIGNED', 'floralwhite')",26.320845128508992
-"('kidney', 'UNSIGNED', 'darkorange')",25.828972631438983
-"('kidney', 'UNSIGNED', 'darkseagreen4')",23.984179816582937
-"('kidney', 'UNSIGNED', 'darkmagenta')",26.893441618205376
-"('kidney', 'UNSIGNED', 'greenyellow')",26.462169487359922
-"('kidney', 'UNSIGNED', 'darkorange2')",25.80689682551722
-"('kidney', 'UNSIGNED', 'honeydew1')",27.070737773964666
-"('kidney', 'UNSIGNED', 'darkgrey')",24.208177540952864
-"('kidney', 'UNSIGNED', 'darkolivegreen4')",26.549843858671206
-"('kidney', 'UNSIGNED', 'darkturquoise')",25.781183960710983
-"('kidney', 'UNSIGNED', 'lightpink3')",26.726151016116972
-"('kidney', 'UNSIGNED', 'lightcyan')",26.340596590197325
-"('kidney', 'UNSIGNED', 'mediumpurple2')",26.621270292164862
-"('kidney', 'UNSIGNED', 'magenta')",24.860511229900368
-"('kidney', 'UNSIGNED', 'lavenderblush3')",26.614728201722958
-"('kidney', 'UNSIGNED', 'midnightblue')",22.363946886473954
-"('kidney', 'UNSIGNED', 'lightcoral')",26.589414562239394
-"('kidney', 'UNSIGNED', 'lightsteelblue')",26.905188386352226
-"('kidney', 'UNSIGNED', 'lavenderblush2')",25.41972548872977
-"('kidney', 'UNSIGNED', 'ivory')",25.73916519640852
-"('kidney', 'UNSIGNED', 'mediumpurple4')",25.698853141045046
-"('kidney', 'UNSIGNED', 'lightcyan1')",26.016293038114284
-"('kidney', 'UNSIGNED', 'lightyellow')",25.77028375213927
-"('kidney', 'UNSIGNED', 'mediumpurple3')",24.596079114725484
-"('kidney', 'UNSIGNED', 'mediumorchid')",25.947893307411707
-"('kidney', 'UNSIGNED', 'magenta4')",25.801674193666006
-"('kidney', 'UNSIGNED', 'lightpink4')",27.910163193078947
-"('kidney', 'UNSIGNED', 'lightsteelblue1')",26.57612136890359
-"('kidney', 'UNSIGNED', 'lightgreen')",25.670001605187558
-"('kidney', 'UNSIGNED', 'maroon')",26.537050360783155
-"('kidney', 'UNSIGNED', 'plum1')",26.07225815260022
-"('kidney', 'UNSIGNED', 'orangered1')",26.74928701262944
-"('kidney', 'UNSIGNED', 'palevioletred3')",21.628696230224588
-"('kidney', 'UNSIGNED', 'plum2')",28.650554637578
-"('kidney', 'UNSIGNED', 'navajowhite1')",27.880058268874407
-"('kidney', 'UNSIGNED', 'plum')",28.24515460070999
-"('kidney', 'UNSIGNED', 'palevioletred2')",26.457987852872026
-"('kidney', 'UNSIGNED', 'navajowhite2')",25.368360404012673
-"('kidney', 'UNSIGNED', 'purple')",25.603915540730043
-"('kidney', 'UNSIGNED', 'orangered3')",26.921839024507673
-"('kidney', 'UNSIGNED', 'salmon')",22.38417115633279
-"('kidney', 'UNSIGNED', 'paleturquoise')",27.999505947705433
-"('kidney', 'UNSIGNED', 'pink')",25.911919489772362
-"('kidney', 'UNSIGNED', 'orange')",25.158032445426976
-"('kidney', 'UNSIGNED', 'royalblue')",23.72929191275881
-"('kidney', 'UNSIGNED', 'pink4')",25.936401198856302
-"('kidney', 'UNSIGNED', 'saddlebrown')",24.661310292880977
-"('kidney', 'UNSIGNED', 'plum3')",27.195688367537045
-"('kidney', 'UNSIGNED', 'red')",22.45063937435908
-"('kidney', 'UNSIGNED', 'orangered4')",26.984742634220733
-"('kidney', 'UNSIGNED', 'skyblue3')",27.156198497500654
-"('kidney', 'UNSIGNED', 'skyblue4')",25.532663706068764
-"('kidney', 'UNSIGNED', 'salmon2')",22.590112545758753
-"('kidney', 'UNSIGNED', 'skyblue1')",25.292960806638114
-"('kidney', 'UNSIGNED', 'thistle3')",26.478162373489127
-"('kidney', 'UNSIGNED', 'skyblue2')",25.450864074639025
-"('kidney', 'UNSIGNED', 'thistle1')",26.997036941473677
-"('kidney', 'UNSIGNED', 'steelblue')",26.092181348130488
-"('kidney', 'UNSIGNED', 'white')",24.745320020333324
-"('kidney', 'UNSIGNED', 'turquoise')",22.621169674353062
-"('kidney', 'UNSIGNED', 'salmon4')",24.164540003266996
-"('kidney', 'UNSIGNED', 'violet')",24.929736285713584
-"('kidney', 'UNSIGNED', 'thistle2')",25.979936863719715
-"('kidney', 'UNSIGNED', 'sienna3')",23.88053949265549
-"('kidney', 'UNSIGNED', 'yellow')",24.25051591974745
-"('kidney', 'UNSIGNED', 'sienna4')",22.363745761500873
-"('kidney', 'UNSIGNED', 'skyblue')",23.49832106808035
-"('kidney', 'UNSIGNED', 'yellow3')",26.873111804617366
-"('kidney', 'UNSIGNED', 'thistle')",26.129308334881372
-"('kidney', 'UNSIGNED', 'tan')",27.85429642720706
-"('gastroc', 'SIGNED', 'darkmagenta')",27.245632794219567
-"('gastroc', 'SIGNED', 'darkgrey')",28.541866146639816
-"('gastroc', 'SIGNED', 'lightyellow')",26.09443981026737
-"('kidney', 'UNSIGNED', 'yellow4')",26.920230012438466
-"('gastroc', 'SIGNED', 'blue')",27.427475362606796
-"('gastroc', 'SIGNED', 'darkorange')",25.82039965081465
-"('gastroc', 'SIGNED', 'darkturquoise')",25.799491135633033
-"('gastroc', 'SIGNED', 'greenyellow')",26.24090389448112
-"('gastroc', 'SIGNED', 'lightgreen')",26.833605020338965
-"('gastroc', 'SIGNED', 'green')",25.124385454700665
-"('gastroc', 'SIGNED', 'magenta')",24.18171597352153
-"('gastroc', 'SIGNED', 'darkolivegreen')",28.036951605124987
-"('gastroc', 'SIGNED', 'cyan')",27.14528674780613
-"('gastroc', 'SIGNED', 'darkred')",25.376038210987694
-"('gastroc', 'SIGNED', 'grey60')",24.30642256119
-"('gastroc', 'SIGNED', 'lightcyan')",24.689653403291228
-"('kidney', 'UNSIGNED', 'yellowgreen')",24.093912555195555
-"('gastroc', 'SIGNED', 'black')",27.32665810810407
-"('gastroc', 'SIGNED', 'darkgreen')",22.900315389742715
-"('gastroc', 'SIGNED', 'brown')",25.30617876075484
-"('gastroc', 'SIGNED', 'skyblue')",26.04003015507547
-"('gastroc', 'UNSIGNED', 'plum1')",27.237958804538952
-"('gastroc', 'SIGNED', 'white')",22.576391068838326
-"('gastroc', 'SIGNED', 'yellow')",27.412236752053353
-"('gastroc', 'SIGNED', 'tan')",25.38663394655199
-"('gastroc', 'SIGNED', 'red')",27.351015359139403
-"('gastroc', 'SIGNED', 'orange')",26.286271522080167
-"('gastroc', 'SIGNED', 'saddlebrown')",27.347985041910945
-"('gastroc', 'SIGNED', 'steelblue')",26.823792309137684
-"('gastroc', 'SIGNED', 'royalblue')",25.30173689199313
-"('gastroc', 'SIGNED', 'pink')",26.67651192315916
-"('gastroc', 'SIGNED', 'midnightblue')",24.486167387037256
-"('gastroc', 'UNSIGNED', 'brown')",26.126819666675296
-"('gastroc', 'UNSIGNED', 'blue')",26.706109476289967
-"('gastroc', 'SIGNED', 'purple')",22.30735907111576
-"('gastroc', 'SIGNED', 'turquoise')",25.990771430388403
-"('gastroc', 'SIGNED', 'violet')",26.96664995654231
-"('gastroc', 'SIGNED', 'paleturquoise')",27.560853960186044
-"('gastroc', 'UNSIGNED', 'turquoise')",27.303847425394494
-"('gastroc', 'SIGNED', 'salmon')",23.68466678042902
-"('gastroc', 'UNSIGNED', 'navajowhite2')",27.766312229091287
-"('gastroc', 'UNSIGNED', 'yellow')",26.324751669299058
-"('gastroc', 'UNSIGNED', 'floralwhite')",27.05817059496524
-"('gastroc', 'UNSIGNED', 'darkgreen')",25.815693632375236
-"('gastroc', 'UNSIGNED', 'magenta')",25.358587723000802
-"('gastroc', 'UNSIGNED', 'mediumpurple3')",25.30623467070583
-"('gastroc', 'UNSIGNED', 'purple')",26.248602320251102
-"('gastroc', 'UNSIGNED', 'darkgrey')",25.689841963056594
-"('gastroc', 'UNSIGNED', 'green')",28.4271043526764
-"('gastroc', 'UNSIGNED', 'midnightblue')",27.149793615762835
-"('gastroc', 'UNSIGNED', 'greenyellow')",25.40429195711961
-"('gastroc', 'UNSIGNED', 'violet')",28.286761356528988
-"('gastroc', 'UNSIGNED', 'sienna3')",26.494287901915918
-"('gastroc', 'UNSIGNED', 'red')",27.4604932340708
-"('gastroc', 'UNSIGNED', 'lightgreen')",26.175877173620826
-"('gastroc', 'UNSIGNED', 'tan')",27.401707351350623
-"('gastroc', 'UNSIGNED', 'bisque4')",26.948451478737027
-"('gastroc', 'UNSIGNED', 'pink')",27.017312169693312
-"('gastroc', 'UNSIGNED', 'steelblue')",25.596956725339084
-"('gastroc', 'UNSIGNED', 'black')",24.086614679727543
-"('gastroc', 'UNSIGNED', 'darkred')",18.573653509519826
-"('gastroc', 'UNSIGNED', 'palevioletred3')",28.25675329234248
-"('gastroc', 'UNSIGNED', 'lightpink4')",25.465754295156774
-"('gastroc', 'UNSIGNED', 'darkturquoise')",27.38590170972338
-"('gastroc', 'UNSIGNED', 'darkslateblue')",27.402747036982444
-"('gastroc', 'UNSIGNED', 'darkorange')",24.965308556331173
-"('gastroc', 'UNSIGNED', 'lightyellow')",26.337269251287843
-"('gastroc', 'UNSIGNED', 'royalblue')",26.741910499294306
-"('gastroc', 'UNSIGNED', 'orange')",28.085224666895957
-"('gastroc', 'UNSIGNED', 'lightcyan')",26.95662849184614
-"('gastroc', 'UNSIGNED', 'cyan')",25.607415126173315
-"('gastroc', 'UNSIGNED', 'salmon')",26.509375930722435
-"('gastroc', 'UNSIGNED', 'paleturquoise')",27.182933607363708
-"('gastroc', 'UNSIGNED', 'saddlebrown')",25.30504199911897
-"('gastroc', 'UNSIGNED', 'lightcyan1')",27.061176802677643
-"('gastroc', 'UNSIGNED', 'skyblue3')",27.396696070597663
-"('gastroc', 'UNSIGNED', 'brown4')",25.741965514704372
-"('gastroc', 'UNSIGNED', 'yellowgreen')",29.267499474598118
-"('gastroc', 'UNSIGNED', 'grey60')",25.654639602521712
-"('gastroc', 'UNSIGNED', 'skyblue')",27.407355266557705
-"('gastroc', 'UNSIGNED', 'darkmagenta')",26.779985849489158
-"('gastroc', 'UNSIGNED', 'orangered4')",26.630973583401452
-"('gastroc', 'UNSIGNED', 'thistle1')",29.0430351920254
-"('gastroc', 'UNSIGNED', 'maroon')",28.446802588644303
-"('gastroc', 'UNSIGNED', 'salmon4')",26.525966859267854
-"('gastroc', 'UNSIGNED', 'darkolivegreen')",27.437587188618416
-"('gastroc', 'UNSIGNED', 'ivory')",26.89354036183296
-"('gastroc', 'UNSIGNED', 'white')",27.34338288680651
-"('gastroc', 'UNSIGNED', 'plum2')",25.728535825631425
-"('gastroc', 'UNSIGNED', 'darkorange2')",26.484354658600612
-"('gastroc', 'UNSIGNED', 'thistle2')",27.512291045456692
-"('gastroc', 'UNSIGNED', 'lightsteelblue1')",25.788084699070225
+,tissue,network,module,glucose,weight,insulin,triglyceride,mean
+0,islet,SIGNED,lightyellow,25.495278616397236,10.05600886205442,118.08862080808184,47.35780067434127,50.249427240218694
+1,islet,SIGNED,darkorange,25.086907427769074,10.686382800461027,138.74894855153465,50.24685809087892,56.19227421766092
+2,islet,SIGNED,blue,22.79392635880043,10.024161608998345,93.36352803405882,38.4574491351557,41.15976628425332
+3,islet,SIGNED,midnightblue,26.00678460510241,10.574879866957238,106.72402325966883,38.796598825745754,45.52557163936856
+4,islet,SIGNED,darkgreen,26.457510454017267,11.010770222222853,160.84858646301618,49.74351079001095,62.01509448231681
+5,islet,SIGNED,darkgrey,24.79297030637015,10.14866960401146,130.10435629802245,42.202791620939095,51.812196957335786
+6,islet,SIGNED,black,25.646278874365525,10.05657434565888,114.66719435539503,36.462169332220945,46.7080542269101
+7,islet,SIGNED,grey60,25.87410365723839,10.367128493786716,130.06433676548025,42.52815191174918,52.208430207063635
+8,islet,SIGNED,magenta,27.079140496655363,10.434933167977446,133.59398271624525,47.7716333743918,54.71992243881746
+9,islet,SIGNED,darkturquoise,26.093573677886674,10.573154110273544,140.24872536480055,43.403664144234504,55.07977932429882
+10,islet,SIGNED,lightgreen,21.341839665661386,10.392240986243243,90.90109807654555,35.42411949314883,39.51482455539975
+11,islet,SIGNED,orange,26.654956250169377,11.223310574139798,124.62382639588031,44.77082634951773,51.81822989242681
+12,islet,SIGNED,darkmagenta,27.391812666080334,10.619206773265356,144.13642644908742,52.90595160635754,58.763349373697665
+13,islet,SIGNED,brown,25.02001624170566,10.495808356906538,114.39588238027191,45.51902723945291,48.857683554584256
+14,islet,SIGNED,lightcyan,23.775761506677746,10.999133963627608,178.2989756180459,46.03671588107202,64.77764674235581
+15,islet,SIGNED,darkolivegreen,26.013276128866934,10.812863105347802,162.51467483222163,44.88092465286936,61.05543467982643
+16,islet,SIGNED,green,24.369232092092837,9.70642840171721,110.70479999026162,38.614132846031204,45.84864833252572
+17,islet,SIGNED,darkred,25.691866192338743,10.619747071670917,141.21525027089206,46.00540112338545,55.88306616457179
+18,islet,SIGNED,cyan,22.93859511962014,11.737702762594102,148.74036716104303,42.132731008635524,56.387349012973196
+19,islet,SIGNED,greenyellow,22.614589022718082,9.972806885412615,134.6450830800144,40.848161064907316,52.0201600132631
+20,islet,SIGNED,yellowgreen,28.414968571125232,11.514748649156767,148.34281429225348,47.982155858000354,59.06367184263395
+21,islet,SIGNED,pink,24.07130245401845,9.414047731232623,126.54410661069633,40.37010139920772,50.09988954878878
+22,islet,SIGNED,turquoise,20.020641160174073,9.821986200036225,96.29559825483281,32.857683230856225,39.74897721147484
+23,islet,SIGNED,steelblue,24.506980265450956,11.34337105933396,164.99813460371212,43.790316956922,61.15970072135476
+24,islet,SIGNED,skyblue,24.527432243430816,9.709440072586395,134.524476892084,46.19431276517087,53.738915493318025
+25,islet,UNSIGNED,antiquewhite4,27.123131037228703,10.413791676860482,115.53954300939641,47.751229460790164,50.20692379606894
+26,islet,SIGNED,red,21.624633592849396,9.677716288224282,118.47183305853841,38.489957146212895,47.066035021456244
+27,islet,SIGNED,sienna3,25.30376120307845,9.452696008484107,160.23785850413404,46.92109965389279,60.47885384239734
+28,islet,SIGNED,skyblue3,26.792191659980457,11.376554102775422,165.378043713969,43.92240877606029,61.86729956319629
+29,islet,SIGNED,royalblue,27.748146138192887,10.358236237214937,135.77021316627514,45.251805593481286,54.78210028379107
+30,islet,SIGNED,purple,25.779155457785773,11.472608902979701,184.3195403350168,45.872105416569006,66.86085252808782
+31,islet,SIGNED,salmon,26.51144718456548,9.238620251870602,97.24295253594512,43.62953350012941,44.155638368127654
+32,islet,SIGNED,violet,23.14678279271743,9.21247317312515,134.14617545030885,46.07247194571427,53.14447584046643
+33,islet,SIGNED,tan,23.390415116273847,9.514793899280642,117.75198380624077,45.44087049893795,49.024515830183304
+34,islet,SIGNED,yellow,19.639636036683363,9.875444136436995,81.47657750763027,33.008593790248234,36.00006286774971
+35,islet,SIGNED,saddlebrown,26.598404255176323,10.652600417753117,123.9798126961382,47.09305785613674,52.080968806301094
+36,islet,SIGNED,grey,25.42984940545147,10.264777488774854,155.51007675224076,43.31606457952504,58.63019205649803
+37,islet,SIGNED,plum1,27.669621629025677,11.41148628045619,144.35687271731325,49.54402592885333,58.24550163891211
+38,islet,SIGNED,white,26.415415405807764,11.124187376562588,182.86801913837363,45.140690366883014,66.38707807190674
+39,islet,SIGNED,paleturquoise,26.521210514446114,11.440937893821655,160.75147944684207,44.80480734251617,60.879608799406505
+40,islet,UNSIGNED,darkseagreen4,27.570992982141696,11.622080330290695,160.114917221216,48.48621899785681,61.948552382876294
+41,islet,UNSIGNED,brown4,26.03739211838399,11.81467639853889,131.2319345751974,41.55024794449957,52.65856275915497
+42,islet,UNSIGNED,darkgrey,25.61298851226899,10.345483884808372,113.34116162982939,42.35565700038703,47.91382275682344
+43,islet,UNSIGNED,darkturquoise,24.476542939680037,11.210757638406703,159.65298841502727,44.40380367140997,59.936023166130994
+44,islet,UNSIGNED,darkolivegreen,24.566137296984113,10.860983387532762,154.7579293393365,46.598129532583506,59.195794889109216
+45,islet,UNSIGNED,darkred,26.426976337165094,10.53772640551578,144.14808986231085,42.524475417882286,55.909317005718506
+46,islet,UNSIGNED,darkmagenta,24.274692432651566,10.030114566644619,121.1712815393775,42.27380729552177,49.437473958548864
+47,islet,UNSIGNED,floralwhite,27.74019963687563,8.932924350079194,93.09377654239802,47.20550577390752,44.24310157581509
+48,islet,UNSIGNED,black,23.888207555805153,10.398534213906538,138.17775785326043,38.06588921016099,52.63259720828327
+49,islet,UNSIGNED,brown,23.890692625565393,9.46536643162064,118.83843550079322,41.33558107533002,48.38251890832732
+50,islet,UNSIGNED,darkslateblue,25.78557608542341,9.690142330613481,139.56435537715052,44.99647789475166,55.009137921984774
+51,islet,UNSIGNED,coral2,26.38253638807388,11.09721616478709,160.34354959022545,49.43431979526896,61.814405484588846
+52,islet,UNSIGNED,darkgreen,27.64536067118037,11.320307766490957,126.73844311652411,51.027097034131295,54.18280214708168
+53,islet,UNSIGNED,cyan,26.287591423320777,10.250742781342579,141.1958981194619,46.209650964916726,55.9859708222605
+54,islet,UNSIGNED,bisque4,23.196353637589276,10.64119114594685,144.74778556254688,42.62807306071324,55.30335085169906
+55,islet,UNSIGNED,darkorange,22.467592469210278,10.087688943495422,164.08753830641336,40.56262665718091,59.301361594075
+56,islet,UNSIGNED,coral1,26.66987614743812,9.701456813612221,153.34062735137277,47.319422162758144,59.257845618795315
+57,islet,UNSIGNED,darkorange2,26.975955119396726,10.447632644493984,133.04137904804054,50.219776646673076,55.17118586465108
+58,islet,UNSIGNED,green,25.423604685139615,11.58119755840228,189.95086636241908,49.42604692162649,69.09542888189686
+59,islet,UNSIGNED,blue,25.267399447414707,10.35531978360137,109.88207729155044,44.52159650398819,47.50659825663868
+60,islet,UNSIGNED,honeydew1,27.89655350906323,10.38500568312661,114.69497612146633,50.59519070087819,50.89293150363359
+61,islet,UNSIGNED,lightsteelblue,25.7310000314006,11.418366228016422,153.72500880108487,50.048742865238275,60.23077948143504
+62,islet,UNSIGNED,mediumorchid,27.286557120118633,11.0467378086224,180.1113429516911,51.99466909168803,67.60982674303004
+63,islet,UNSIGNED,greenyellow,22.72764979428699,11.908985222034087,148.93984683423224,42.96015508635772,56.63415923422776
+64,islet,UNSIGNED,maroon,25.921457791150466,11.43697022933759,112.96821403496334,45.877558060379265,49.05105002895767
+65,islet,UNSIGNED,lightcyan,26.083473610537666,11.51169887897223,169.66562393176906,50.9510867721102,64.55297079834729
+66,islet,UNSIGNED,magenta,26.247291789495165,10.426220174285778,105.80710092106796,40.374600654135456,45.713803384746086
+67,islet,UNSIGNED,ivory,23.26321189089399,11.174769995807726,132.51585174429565,41.977528505849335,52.232840534211675
+68,islet,UNSIGNED,lightsteelblue1,24.05970733388242,11.226405385503716,154.52869064772486,47.272548020000976,59.27183784677799
+69,islet,UNSIGNED,grey60,22.023636829206342,10.560208778982602,98.47193158265972,40.14564037845279,42.80035439232536
+70,islet,UNSIGNED,lightgreen,25.843218757528703,11.300666854541015,169.83234139692777,47.27264659389258,63.562218400722514
+71,islet,UNSIGNED,lightpink4,25.75821455263121,9.87839662214395,144.9837394594705,51.83693725968007,58.11432197348143
+72,islet,UNSIGNED,midnightblue,23.650874614155622,10.901115716985768,140.52977946476935,40.03163113651417,53.778350233106224
+73,islet,UNSIGNED,lightcyan1,23.82311828128562,9.621891379342157,126.48488465984997,46.8247560565732,51.68866259426273
+74,islet,UNSIGNED,lightyellow,25.905145080641635,10.371856835461868,135.97345212006576,36.92274018363388,52.29329855495078
+75,islet,UNSIGNED,mediumpurple2,24.154468333198825,11.179576280675617,159.3342112704677,47.642878238295616,60.577783530659445
+76,islet,UNSIGNED,lavenderblush3,26.688097164629536,11.63963221016707,135.2464883550176,41.93435195915904,53.87714242224331
+77,islet,UNSIGNED,mediumpurple3,22.239630735515558,11.558265335593823,124.19747067182436,44.10360650585564,50.524743312197344
+78,islet,UNSIGNED,orange,23.429216457053297,9.874061076458041,77.14958861070497,40.07560783779484,37.63211849550279
+79,islet,UNSIGNED,navajowhite2,26.40995651700723,10.82409550483165,128.63458138604355,50.083527740695146,53.9880402871444
+80,islet,UNSIGNED,paleturquoise,25.40638369428564,10.806692511068631,173.68574000288854,43.12153961170605,63.255088954987215
+81,islet,UNSIGNED,skyblue1,27.031758546501617,10.749166445001313,148.24532181762626,49.41074291043915,58.859247429892086
+82,islet,UNSIGNED,orangered4,25.843081156616975,10.671148571541949,139.60026029659443,45.15103077128576,55.316380199009785
+83,islet,UNSIGNED,plum,27.671698556659656,11.389639198593837,159.29231652067654,55.38281091464492,63.43411629764373
+84,islet,UNSIGNED,purple,24.296140395651605,10.17895327729239,110.96196983325942,41.553417742681866,46.747620312221315
+85,islet,UNSIGNED,salmon,28.404012822461937,10.64422038222181,130.2345987833184,48.14903846111512,54.35796761227932
+86,islet,UNSIGNED,orangered3,24.710581359539777,11.862683893572248,142.31092950603886,41.566031268796074,55.11255650698674
+87,islet,UNSIGNED,skyblue2,24.50014855746094,10.345631697315529,174.56584381279316,41.9836861253658,62.84882754823386
+88,islet,UNSIGNED,sienna3,26.114765815616494,10.41131750831778,125.18295097100179,46.86905655435437,52.14452271232261
+89,islet,UNSIGNED,royalblue,27.214407583153253,10.406886697729679,154.99266889573838,43.18322367961654,58.949296714059464
+90,islet,UNSIGNED,salmon4,25.25248381149322,10.545360325723026,145.72186411173334,46.215930927874204,56.93390979420595
+91,islet,UNSIGNED,skyblue3,26.38111605880337,11.074301886438345,151.04015689398358,44.7406606445026,58.30905887093198
+92,islet,UNSIGNED,pink,24.082706751910465,10.295038566091733,124.07822553083084,42.66506627046191,50.28025927982374
+93,islet,UNSIGNED,saddlebrown,28.95354420195418,10.317611886128319,127.87518266201707,44.70841112851896,52.96368746965463
+94,islet,UNSIGNED,plum2,27.159807524633738,9.943092184748224,139.41469620188028,43.77928108949209,55.07421925018858
+95,islet,UNSIGNED,red,25.7751631526129,10.19991391919613,135.5365180563605,49.58457496598888,55.274042523539606
+96,islet,UNSIGNED,skyblue,22.66428536599915,9.66590007079523,98.63040114958841,44.02457459179597,43.74629029454469
+97,islet,UNSIGNED,palevioletred3,24.209050552140685,10.203965166064068,154.9603901240578,41.375997505614045,57.687350836969145
+98,islet,UNSIGNED,steelblue,24.37036130917734,11.058729735762398,124.92861851016161,37.334500189338435,49.42305243610994
+99,islet,UNSIGNED,plum1,26.420691519728184,10.780772495102758,129.82184437675036,51.03015315187598,54.51336538586432
+100,liver,SIGNED,darkgrey,23.778130846589434,10.988749401797337,170.03672571956102,40.99451977199704,61.449531434986206
+101,islet,UNSIGNED,turquoise,20.014333226367054,9.382461372630152,80.32823738735424,33.2483078036696,35.74333494750526
+102,liver,SIGNED,darkolivegreen,24.98885758409468,11.113087892718239,139.53135534333822,46.30283171404946,55.48403313355015
+103,liver,SIGNED,darkorange,24.140472489146664,11.100718841438248,162.20709306638597,44.44167051934886,60.472488729079934
+104,liver,SIGNED,black,24.205721367646284,10.13268539205992,144.37745707256138,41.204343080643554,54.980051728227785
+105,islet,UNSIGNED,thistle2,25.757010489789767,11.709227764372946,136.58451218829,39.694718119167426,53.43636714040503
+106,islet,UNSIGNED,violet,26.501464940337442,10.572317538034298,110.78191927266073,49.96153873824016,49.45431012231816
+107,islet,UNSIGNED,white,27.396983117482186,10.45245745831076,152.22583296424,43.72738254244193,58.45066402061872
+108,islet,UNSIGNED,yellow,23.423845508374956,10.053241299610415,116.0066307071082,40.5741086053637,47.51445653011432
+109,islet,UNSIGNED,grey,24.381578261989425,9.744011138622412,118.73023458129308,39.170088950935295,48.006478233210046
+110,liver,SIGNED,brown,24.558440085450453,11.158841998857167,176.28790324104529,42.60924920215251,63.65360863187635
+111,liver,SIGNED,darkgreen,25.83940254253252,10.824651957175151,140.01372753403786,43.33937234301867,55.00428859419105
+112,liver,SIGNED,cyan,23.3998518413506,11.188191994678698,154.3222321379074,37.48179325859214,56.59801730813221
+113,liver,SIGNED,blue,25.407402925030524,10.057162021009008,153.46736380702478,37.69070587524776,56.65565865707802
+114,islet,UNSIGNED,yellow4,26.97856709170079,10.223457008327857,152.04599198629853,49.50943894590376,59.68936375805773
+115,liver,SIGNED,darkred,24.753961781027662,12.042785595772585,164.05507960243557,38.74226826725086,59.89852381162167
+116,liver,SIGNED,darkmagenta,24.930066376737884,10.581531015880492,134.14753387180218,42.445732910499494,53.02621604373001
+117,islet,UNSIGNED,tan,25.58249222341321,10.889245581250501,129.74580950026808,39.14417402137607,51.34043033157697
+118,islet,UNSIGNED,thistle1,27.676173607432297,10.797853963788892,169.41891088603248,42.722667145934416,62.65390140079702
+119,islet,UNSIGNED,yellowgreen,26.195405043427115,11.408996722359413,157.88535229681622,41.35475333841479,59.21112685025438
+120,liver,SIGNED,ivory,26.917171927176,11.507252382161864,162.6074489489095,49.21396455741079,62.56145945391454
+121,liver,SIGNED,lightcyan1,26.656559507627936,11.104033017550684,158.0808626617075,43.442323073657064,59.8209445651358
+122,liver,SIGNED,mediumpurple3,27.585878602462206,11.346699482766883,163.10097272267026,54.18213223489404,64.05392076069835
+123,liver,SIGNED,orange,29.693153666299953,11.217330204967825,156.5580742068506,46.84276280877016,61.07783022172214
+124,liver,SIGNED,lightcyan,20.29504066993843,9.99549359348828,130.95566896916435,39.35981028910157,50.15150338042316
+125,liver,SIGNED,lightyellow,23.8040280379175,10.056639183675188,156.59714034201028,41.608425708232176,58.01655831795878
+126,liver,SIGNED,paleturquoise,26.052020454569835,11.234384792948873,147.06544914915884,45.79654458757222,57.53709974606244
+127,liver,SIGNED,pink,27.18208358117954,12.051079290981338,183.0346690246015,47.73530579870448,67.50078442386672
+128,liver,SIGNED,midnightblue,27.697292541838824,11.014962980873442,178.84693321245564,48.21308595538796,66.44306867263897
+129,liver,SIGNED,grey60,23.681674384630966,10.288497061028828,110.716373317591,42.62693983871383,46.82837115049116
+130,liver,SIGNED,plum1,27.144309574807686,10.807752872377382,150.12427064508893,43.717436104370016,57.94844229916101
+131,liver,SIGNED,floralwhite,27.323600108005643,11.980444953203158,187.29655504819056,51.73709792383483,69.58442450830854
+132,liver,SIGNED,orangered4,26.616145627020867,10.53241280296739,168.36917878562127,48.44952084830841,63.491814515979485
+133,liver,SIGNED,magenta,24.882854384668498,11.144395331686658,158.16199458269665,44.49385370915533,59.670774502051785
+134,liver,SIGNED,greenyellow,28.48225754425824,12.331880470821996,168.28276320346868,56.358324853199335,66.36380651793706
+135,liver,SIGNED,lightsteelblue1,25.979178842975863,11.306572541388071,172.38646852029433,46.06554082569958,63.93444018258946
+136,liver,SIGNED,darkturquoise,27.819802002863582,11.14653544319273,159.59533908677645,50.88714751540101,62.362206012058444
+137,liver,SIGNED,green,26.998318967465064,10.994265463296081,200.63461658207135,44.16551051936423,70.69817788304917
+138,liver,SIGNED,purple,25.771426158307253,10.58975179916813,153.17685458289387,44.53915064407117,58.5192957961101
+139,liver,SIGNED,lightgreen,26.793645520082293,11.803527750851408,190.05717013927696,45.299887726662035,68.48855778421817
+140,liver,UNSIGNED,black,24.373870689293323,10.796468828999755,156.74762624178692,51.12734873844425,60.76132862463106
+141,liver,UNSIGNED,antiquewhite4,27.144626361382524,12.337330817114854,155.3824377809811,48.189996357220274,60.76359782917469
+142,liver,SIGNED,salmon,22.364121208003656,11.325629493594365,166.78203711814788,47.57851495658773,62.01257569408341
+143,liver,SIGNED,turquoise,24.184099897272713,11.003650539076462,149.93205731441805,37.246681071778255,55.59162220563637
+144,liver,SIGNED,steelblue,26.5312045230758,11.088504679303703,130.65522354020425,44.32895597371727,53.150972179075254
+145,liver,SIGNED,white,22.911826877130416,10.642674913548927,155.2383006796856,41.18714928766791,57.49498793950822
+146,liver,SIGNED,violet,26.776214066484872,10.318311432106235,143.0901100552793,47.48170422989314,56.91658494594088
+147,liver,SIGNED,tan,26.188351882082696,11.847467656743104,182.68854266199494,44.40468039971788,66.28226065013466
+148,liver,SIGNED,saddlebrown,22.454062049239436,9.154639683160887,119.44622175675073,38.91889579178825,47.49345482023483
+149,liver,UNSIGNED,blue,24.193165987186596,10.290787591102022,145.25142892445552,39.16786066674781,54.72581079237298
+150,liver,SIGNED,skyblue,24.25619317956629,11.388578490807236,143.59712535866072,40.59391874301642,54.958953943012666
+151,liver,SIGNED,skyblue3,27.96344339115164,11.793526935119946,168.302065325133,48.920979488200196,64.24500378490119
+152,liver,UNSIGNED,bisque4,27.386019036712227,11.612673709296889,168.38967355503027,43.74591798689067,62.783571071982514
+153,liver,SIGNED,royalblue,25.307103917002387,10.609347957442912,160.7493815082085,45.56045582213487,60.556572301197164
+154,liver,UNSIGNED,blue2,27.45603880762941,11.228894138618886,148.7407013287572,54.41163867620635,60.45931823780296
+155,liver,SIGNED,sienna3,27.385775197691732,11.590177331015848,166.27150707391718,46.177152741083496,62.85615308592706
+156,liver,SIGNED,red,27.483288812006414,11.62075954046741,194.72084297274617,44.25976964806467,69.52116524332116
+157,liver,SIGNED,yellowgreen,28.06087536680706,10.610323048948684,148.64114183557112,38.96297342925903,56.568828420146474
+158,liver,SIGNED,yellow,28.612709172151625,11.865347612752261,168.7750277775173,52.42214269826063,65.41880681517046
+159,liver,SIGNED,grey,25.679290880500478,11.053610644485316,198.55363764250535,38.91864401927695,68.55129579669202
+160,liver,UNSIGNED,darkmagenta,25.06500832532502,10.4330119013986,164.2016127328824,48.353956047550966,62.01339725178926
+161,liver,UNSIGNED,brown2,26.990782803653087,11.20277258494031,160.98165397098282,47.43101398578916,61.651555836341345
+162,liver,UNSIGNED,brown,26.257354107981534,11.687116908252394,169.1492188118575,48.35085418404158,63.86113600303325
+163,liver,UNSIGNED,darkgrey,26.683274275672737,11.499657583789979,173.30755263379598,52.9555988211886,66.11152082861182
+164,liver,UNSIGNED,darkorange,27.05624810446951,12.274859272729895,177.3235972704905,49.81800018201522,66.61817620742627
+165,liver,UNSIGNED,brown4,27.2066871823792,10.718133161489854,163.4577127693115,47.75276176403634,62.28382371930422
+166,liver,UNSIGNED,coral2,26.59166737549638,9.654893453945425,158.41938600336775,46.91645109468365,60.3955994818733
+167,liver,UNSIGNED,darkorange2,27.278958486589406,11.274528208454049,152.8632256904431,45.6117109154844,59.25710582524274
+168,liver,UNSIGNED,darkolivegreen4,26.61764367724481,11.465498287253531,165.45959103581927,42.55745891826092,61.52504797964463
+169,liver,UNSIGNED,darkseagreen3,27.970197910581028,11.93881123995912,165.677907075952,45.19306692445837,62.69499578773763
+170,liver,UNSIGNED,darkgreen,24.92192435197903,10.255428818921239,158.33695868424059,43.079191606956094,59.14837586552424
+171,liver,UNSIGNED,darkred,23.879760770837596,11.14134826713784,183.40811825519904,39.43922893736812,64.46711405763565
+172,liver,UNSIGNED,darkturquoise,27.432208081785237,12.00226228308307,194.22412779992743,46.91398162422261,70.14314494725458
+173,liver,UNSIGNED,darkseagreen4,29.498979856664732,10.042355613009752,124.2948517759555,43.784401304156226,51.905147137446555
+174,liver,UNSIGNED,darkolivegreen,27.375102447504723,11.527135615034679,168.19174009391747,50.57748599847507,64.41786603873298
+175,liver,UNSIGNED,darkviolet,26.120505486268346,11.684978369930676,160.61364796941874,44.545369680132765,60.74112537643762
+176,liver,UNSIGNED,darkslateblue,26.969919444470346,10.211082264407292,168.17353768348613,48.72660943007574,63.520287205609876
+177,liver,UNSIGNED,cyan,27.90287697592132,11.080890024781223,148.3433209880787,45.47133707585153,58.199606266158185
+178,liver,UNSIGNED,firebrick4,27.302296921719645,10.441754342040909,141.86873330292119,49.584533163463995,57.29932943253643
+179,liver,UNSIGNED,coral1,28.208033455400184,11.137625502103287,137.06270439644726,41.0814147971849,54.372444537783906
+180,liver,UNSIGNED,lavenderblush2,24.389206349502874,9.748651713478964,137.07609560715414,46.0055190920953,54.304868190557826
+181,liver,UNSIGNED,honeydew,27.657300652433086,11.231004393590329,158.64905703500403,54.305908142867246,62.96081755597368
+182,liver,UNSIGNED,grey60,29.165177503110325,11.306775346481292,202.28076423545906,50.871334738640584,73.40601295592282
+183,liver,UNSIGNED,lavenderblush3,28.771522064964046,10.40690322143983,152.12816698638179,47.3702006649479,59.669198234433395
+184,liver,UNSIGNED,lightpink3,26.469728291061063,10.854020123919696,161.54512876902936,49.11206721570289,61.99523609992825
+185,liver,UNSIGNED,lightsteelblue,25.39330637074037,10.332634484826347,147.68197351372882,44.68912879965167,57.0242607922368
+186,liver,UNSIGNED,honeydew1,27.393557580486892,10.642212431353894,179.47311631505124,45.08110706928989,65.64749834904548
+187,liver,UNSIGNED,lightcyan1,27.387404863067783,11.537086990404903,172.9741112368541,48.440121076141736,65.08468104161713
+188,liver,UNSIGNED,floralwhite,26.67469100589291,11.250824702252006,175.2775340537711,49.713818610653654,65.72921709314242
+189,liver,UNSIGNED,indianred4,24.24529721284636,11.628488413195512,140.10963353436856,43.69475677202073,54.919543983107786
+190,liver,UNSIGNED,lightcyan,22.84722232310464,10.260583237971002,111.70044755653554,40.1475389290833,46.238948011673614
+191,liver,UNSIGNED,greenyellow,28.087578375215582,11.80350921717016,170.926858313342,49.80745360548498,65.15634987780318
+192,liver,UNSIGNED,magenta,23.556887231622035,11.22262646621158,161.9353381547273,40.10374279342965,59.20464866149764
+193,liver,UNSIGNED,ivory,24.7060601596381,10.744435662411233,131.44340448033464,42.17423692194016,52.26703430608103
+194,liver,UNSIGNED,lightpink4,23.977145123399104,10.328473450853387,145.33441651337012,44.5256222163959,56.04141432600463
+195,liver,UNSIGNED,lightgreen,27.350713146611778,11.534916452863865,143.4772246950893,58.14536379883193,60.127054523349216
+196,liver,UNSIGNED,lightcoral,25.317838112306113,10.602076432173524,144.8993075546628,46.545456947558876,56.84116976167533
+197,liver,UNSIGNED,lightsteelblue1,28.68577738837994,11.417336965071163,172.5847826381072,48.10653149454407,65.1986071215256
+198,liver,UNSIGNED,green,27.74642466733531,11.748996620650331,169.02473327577985,48.66258076331172,64.29568383176931
+199,liver,UNSIGNED,lightyellow,28.219116313214382,11.736211841597783,198.58777683597646,47.962377114137865,71.62637052623163
+200,liver,UNSIGNED,navajowhite1,26.53524514537548,11.032870963749012,175.66573451281909,49.25744353641101,65.62282353958865
+201,liver,UNSIGNED,purple,27.619766082828427,11.930259481659418,174.3458438178556,49.522537796401714,65.85460179468629
+202,liver,UNSIGNED,mediumpurple2,27.228553519570525,11.822377298547217,198.989368813855,50.71369345422482,72.18849827154939
+203,liver,UNSIGNED,magenta4,25.804559780131875,11.225216147552992,153.1558689338762,52.773256975181894,60.739725459185735
+204,liver,UNSIGNED,mediumpurple3,26.23422855637529,10.623491708660778,149.08856137897575,42.97009766244282,57.22909482661366
+205,liver,UNSIGNED,plum2,25.538012586176663,10.399907237214157,168.01318776763907,47.90829027288924,62.96484946597978
+206,liver,UNSIGNED,midnightblue,26.056418299094247,10.68483403577546,164.7096307963053,51.371745667184385,63.20565719958985
+207,liver,UNSIGNED,mediumorchid,26.303530834198902,10.165385677230852,143.4976457623361,44.178752694901,56.03632874216672
+208,liver,UNSIGNED,plum,25.93175732761087,10.668944083551702,145.60467606003797,43.409110330114764,56.403621950328834
+209,liver,UNSIGNED,plum3,26.84635045813354,11.574063553677732,180.07735785332716,45.22688669240174,65.93116463938505
+210,liver,UNSIGNED,orangered3,27.13898063209863,10.699597635207747,147.12735134984737,46.22929901317609,57.79880715758246
+211,liver,UNSIGNED,orange,26.387287874249626,11.084037415836283,170.93464080444733,49.02696286972111,64.35823224106359
+212,liver,UNSIGNED,palevioletred2,28.166462754717326,10.683881045759197,148.7462261938249,49.557332775516876,59.288475692454575
+213,liver,UNSIGNED,navajowhite2,25.803777022600226,11.83985646181889,159.1925541537022,44.34948912566293,60.29641919094606
+214,liver,UNSIGNED,palevioletred3,26.825990694339552,11.548540441552836,149.50846587726008,50.786471337261865,59.66736708760359
+215,liver,UNSIGNED,orangered4,25.73082847315615,12.06455182394654,156.47011379731615,49.48229215447515,60.9369465622235
+216,liver,UNSIGNED,plum1,24.91748571746082,9.764566674612704,141.4977672874459,42.11378726096053,54.57340173511999
+217,liver,UNSIGNED,paleturquoise,24.648113956858726,11.204388688832882,168.2099250394569,42.99619297666788,61.764655165454094
+218,liver,UNSIGNED,maroon,27.762434721177375,11.29287028052636,145.87379984800762,52.09205927212949,59.255291030460214
+219,liver,UNSIGNED,pink,27.341628105468345,12.430264116335465,142.8954578176873,52.84091246780244,58.87706562682339
+220,liver,UNSIGNED,tan,28.85820585955828,11.745733454869235,165.28684338722334,51.60270431060574,64.37337175306415
+221,liver,UNSIGNED,skyblue1,26.109594377321336,10.261416295453863,175.62825074106672,45.51293815685916,64.37804989267526
+222,liver,UNSIGNED,sienna3,24.852698422601737,11.375475085945032,147.18576191835848,45.205975269232695,57.154977674034484
+223,liver,UNSIGNED,skyblue,26.6504792268606,11.394784974867934,151.9722648181654,43.90888952032754,58.48160463505537
+224,liver,UNSIGNED,white,27.619950129188037,10.849010314995573,176.29429580072375,46.698097286845744,65.36533838293828
+225,liver,UNSIGNED,violet,28.56942595830425,11.939974150821069,173.17641598486298,52.54433148546194,66.55753689486257
+226,liver,UNSIGNED,thistle2,26.078987388100096,11.170789876090545,142.5098671232993,47.642078317975994,56.850430676366486
+227,liver,UNSIGNED,turquoise,24.30303272664944,10.277322171317012,134.68956965136468,38.933461316380495,52.050846466427906
+228,liver,UNSIGNED,salmon2,26.769838905237215,10.836294045961548,128.43445261407308,42.25193872732559,52.073131073149355
+229,liver,UNSIGNED,thistle3,26.790564373255844,11.125234623178379,149.66370735987763,49.41099266280172,59.2476247547784
+230,liver,UNSIGNED,red,28.69261588627169,11.517546278285336,159.64210971000068,55.50961099772345,63.84047071807029
+231,liver,UNSIGNED,saddlebrown,23.640588880051332,11.013396512308026,174.34138178445284,40.259077806941654,62.31361124593846
+232,liver,UNSIGNED,salmon4,27.385696420047356,11.3464631810707,156.92691335261944,48.53307104695779,61.04803600017382
+233,liver,UNSIGNED,skyblue3,25.2810334853575,11.104402496056057,157.25959685461538,40.466155411629096,58.52779706191451
+234,liver,UNSIGNED,thistle1,27.168545695512865,11.81353748564625,167.99937078132479,51.56250991179231,64.63599096856905
+235,liver,UNSIGNED,thistle,26.30285662786222,11.472086880669963,156.84401461529058,44.18564342562252,59.70115038736132
+236,liver,UNSIGNED,skyblue2,26.141174761860817,10.2162036627799,159.743543053877,44.339913239924094,60.11020867961045
+237,liver,UNSIGNED,salmon,28.595580968479776,12.234150745893258,191.66509200649296,51.2721163649078,70.94173502144345
+238,liver,UNSIGNED,steelblue,22.86041139331356,9.915166781766924,135.60189082577725,44.129562738978464,53.126757934959045
+239,liver,UNSIGNED,royalblue,25.593035736671265,11.117631434060572,139.5880899993393,40.199356906442034,54.1245285191283
+240,adipose,SIGNED,darkred,23.830302070609854,10.201524311732447,151.41256475789166,39.070521271989236,56.1287281030558
+241,adipose,SIGNED,cyan,22.904605928614828,10.034091721083712,150.92861637346934,34.62246011688173,54.6224435350124
+242,adipose,SIGNED,blue,24.479216972982396,10.53811999104434,160.1976418528012,39.32857221116104,58.63588775699725
+243,adipose,SIGNED,darkturquoise,23.228552266397518,10.368637281345471,125.09199194951263,31.516593787521696,47.551443821194326
+244,adipose,SIGNED,darkorange2,28.150290890677,9.985135242832646,171.6127803541369,45.87872105579192,63.906731885859614
+245,adipose,SIGNED,darkgrey,28.940905110014135,10.535128862536999,166.64912099017724,49.04602625322705,63.792795303988854
+246,adipose,SIGNED,brown,24.585020329247914,10.071619562237018,145.36770344036412,35.287284302808594,53.82790690866441
+247,adipose,SIGNED,darkolivegreen,25.90910831489679,10.346527151902041,180.82019907395582,41.51098677488658,64.64670532891031
+248,adipose,SIGNED,darkgreen,25.023324890790587,10.712583854097538,153.06221409649575,37.303684375087585,56.525451804117864
+249,adipose,SIGNED,darkmagenta,25.541449119029092,10.511058698246174,200.89215614919175,41.48299882702928,69.60691569837408
+250,liver,UNSIGNED,yellow,26.0454966557497,9.959859912569746,139.04101003408283,44.47411230955298,54.88011972798881
+251,adipose,SIGNED,black,26.849055846864424,10.73673332755132,201.3335014750727,45.554068314917494,71.11833974110148
+252,liver,UNSIGNED,yellow4,27.0522542519856,10.461331050953733,144.12349019657134,44.44142656317726,56.51962551567198
+253,adipose,SIGNED,brown4,24.733943983889187,10.144415618418385,166.65865723372636,40.544841847006836,60.52046467076019
+254,adipose,SIGNED,darkslateblue,25.43801013918479,11.710864115577754,177.7048017349201,42.307877543196845,64.29038838321988
+255,liver,UNSIGNED,grey,25.729812779604906,11.8838910714873,179.41104948100784,43.39255936541754,65.10432817437939
+256,liver,UNSIGNED,yellowgreen,25.786491565252163,11.323371961725423,168.89584341846557,46.83053831575507,63.20906131529956
+257,adipose,SIGNED,bisque4,20.3809729651836,10.325743742628514,133.5901712898659,33.20625392329284,49.37578548024272
+258,adipose,SIGNED,darkorange,26.610734668996162,10.481229644442566,189.44454946133519,42.44221360154916,67.24468184408077
+259,adipose,SIGNED,floralwhite,25.80100477112614,11.367833814167623,141.74134560188543,41.66415693067244,55.14358527946291
+260,adipose,SIGNED,ivory,26.74850356752109,11.001216255755216,162.60748244848935,43.67027130306587,61.00686839370788
+261,adipose,SIGNED,orange,22.845602696199016,10.710213853217395,124.56470104850045,36.03211124833151,48.538157211562094
+262,adipose,SIGNED,maroon,26.705507542033715,10.197800866714655,184.5309481362628,46.73071770018121,67.0412435612981
+263,adipose,SIGNED,lightcyan1,26.462845277072507,11.333792461598584,189.83757344333839,44.57026574093989,68.05111923073734
+264,adipose,SIGNED,lightcyan,25.262395537965126,11.270777943778635,199.11669476650965,42.007306735014474,69.41429374581698
+265,adipose,SIGNED,lightsteelblue1,24.91194269494812,10.637446817956265,158.06830561871604,41.65209900830764,58.81744853498201
+266,adipose,SIGNED,midnightblue,24.22387618827958,10.327176996209767,136.36666036010683,37.61014127914145,52.13196370593441
+267,adipose,SIGNED,mediumpurple3,24.104548958921413,10.986778783934215,173.5365343875526,44.14971581033976,63.194394485187
+268,adipose,SIGNED,lavenderblush3,28.118775982031412,11.140765020620034,169.01071973773722,49.46172711096616,64.4329969628387
+269,adipose,SIGNED,lightgreen,26.50148287288181,10.83073578898251,188.2381617382239,45.27208765686405,67.71061701423807
+270,adipose,SIGNED,orangered4,23.712598875628924,9.978444018905737,147.22981769532842,39.55828037755245,55.11978524185388
+271,adipose,SIGNED,lightyellow,25.764356914394305,10.73160319225078,177.95962284870043,38.99593585497561,63.36287970258028
+272,adipose,SIGNED,magenta,20.051981134244787,10.166952021815606,92.87429339542679,31.25549022501245,38.587179194124914
+273,adipose,SIGNED,green,25.203910643083873,10.327355424676066,148.36753449941455,40.91810971179486,56.204227569742336
+274,adipose,SIGNED,grey60,25.539603177903114,10.378424855650515,149.4270597076442,41.37112214225119,56.679052470862246
+275,adipose,SIGNED,navajowhite2,26.843718885378674,11.73459419823138,205.12128524838366,42.73091691417191,71.6076288115414
+276,adipose,SIGNED,paleturquoise,23.35052986126168,10.000819716741628,151.28002956159312,37.13712168153327,55.44212520528243
+277,adipose,SIGNED,lightpink4,25.152006554629917,10.267509425786553,141.1969197489072,47.889411242155916,56.12646174286989
+278,adipose,SIGNED,palevioletred3,25.214084131105167,11.072709496702249,217.58310882514843,51.71405029931173,76.3959881880669
+279,adipose,SIGNED,greenyellow,24.0665527495274,10.260005008209431,135.5616498029825,33.681897079421944,50.89252616003532
+280,adipose,SIGNED,tan,19.89015827447415,9.696124356954972,101.0001531831269,36.51104377512638,41.7743698974206
+281,adipose,SIGNED,plum2,26.701273673533553,11.489793966585042,204.6539795084544,42.04770701888634,71.22318854186483
+282,adipose,SIGNED,purple,25.669016131087098,9.658136010780478,138.66585197929436,39.924042169504254,53.479261572666545
+283,adipose,SIGNED,thistle2,28.39305709141448,10.607855100322393,163.53623233013525,47.41900002417515,62.489036136511814
+284,adipose,SIGNED,plum1,26.230645247355778,11.121710837337064,188.52867152083866,43.41493411822136,67.32399043093821
+285,adipose,SIGNED,thistle1,28.806014114644583,10.974444767111075,181.5844729831958,50.497561133677884,67.96562324965734
+286,adipose,SIGNED,salmon,25.705000240668983,10.68461874725124,165.85075008734273,46.165036040768385,62.10135127900783
+287,adipose,SIGNED,violet,25.957260903470665,10.68919444012049,176.69965557234164,40.065969150582184,63.35302001662875
+288,adipose,SIGNED,saddlebrown,25.84049454432221,11.497612876078422,168.1932093004644,40.282037017859224,61.45333843468106
+289,adipose,SIGNED,skyblue,25.98920908875154,10.937457568639147,149.58278628049305,40.57560812445829,56.771265265585505
+290,adipose,SIGNED,pink,22.664477558281373,9.297041141958848,143.472383053702,34.787275193270965,52.5552942368033
+291,adipose,SIGNED,salmon4,22.701811077710225,11.305016462065046,159.39310834722264,37.97475321482542,57.84367227545584
+292,adipose,SIGNED,white,21.85442288137524,10.28403994688282,162.48950317443223,36.51129722806232,57.784815807688155
+293,adipose,SIGNED,sienna3,24.611209612326295,10.296852264048018,130.2450763833379,42.15412669447595,51.82681623854704
+294,adipose,SIGNED,steelblue,25.34333648177055,10.732409136094349,162.43458549372676,42.480258773771006,60.24764747134066
+295,adipose,SIGNED,yellow,22.128073233259062,9.819698190510353,135.15335011046363,35.92367774546397,50.756199819924255
+296,adipose,SIGNED,skyblue3,26.350727710842886,11.331967543694699,154.30008466207764,44.76466287228724,59.18686069722561
+297,adipose,SIGNED,turquoise,22.67397138331233,10.019429421098202,149.14685864694056,38.38257300256924,55.05570811348008
+298,adipose,SIGNED,royalblue,23.406737292567176,10.270936829802624,162.085825577082,35.61574849036118,57.844812047453246
+299,adipose,SIGNED,red,21.39472680012065,9.454908325717335,139.5923800103164,35.29381953564972,51.43395866795102
+300,adipose,UNSIGNED,darkorange,26.525876148276705,11.475775242883248,153.23688115260234,45.23369336635211,59.1180564775286
+301,adipose,UNSIGNED,darkred,26.059466353522136,11.435875832692254,172.3893924057471,42.526987205861374,63.10293044945571
+302,adipose,UNSIGNED,black,25.133989900825544,9.532970734877555,146.44137903905224,39.65701727009874,55.19133923621352
+303,adipose,SIGNED,grey,28.39766776660365,11.554925597898091,186.11843262839525,47.48609287001784,68.3892797157287
+304,adipose,UNSIGNED,antiquewhite4,29.104287057527095,10.37543266137832,148.77088727633253,44.53949488659921,58.19752547045929
+305,adipose,UNSIGNED,coral2,25.16932992020744,11.37180530892374,161.38183348568847,47.246133000028976,61.29227542871216
+306,adipose,SIGNED,yellowgreen,24.87112427221647,10.522561782212701,153.11708614045386,45.36687646700656,58.4694121654724
+307,adipose,UNSIGNED,brown4,25.921876406102704,10.314807408279853,161.52613407174502,46.92458800296486,61.17185147227311
+308,adipose,UNSIGNED,darkslateblue,27.980079874741588,10.733290885388415,176.4696255497001,49.12922167036435,66.07805449504862
+309,adipose,UNSIGNED,coral1,24.753082289583105,10.610392690554907,161.52746745930364,44.08737647984582,60.244579729821865
+310,adipose,UNSIGNED,darkseagreen4,25.424073595081058,10.906246238003519,157.67637793590654,50.285530326503405,61.07305702387363
+311,adipose,UNSIGNED,darkgreen,25.653352158119937,10.923844016730348,140.0595846540251,44.03776382052406,55.168636162349856
+312,adipose,UNSIGNED,darkorange2,25.682168453062616,10.783882114052728,144.08027072527332,44.254875712615096,56.20029925125094
+313,adipose,UNSIGNED,cyan,25.400558485963177,10.606339405404743,157.316448765827,37.89439070814279,57.80443434133443
+314,adipose,UNSIGNED,bisque4,22.168071705440724,11.406513770894245,161.98428723234855,37.11721403707931,58.1690216864407
+315,adipose,UNSIGNED,brown,28.224306488581174,10.822982670995769,189.25922166402054,46.694253172533244,68.75019099903268
+316,adipose,UNSIGNED,blue,21.777557036163014,10.774160178708748,155.32286877248606,36.98821166865745,56.215699414003815
+317,adipose,UNSIGNED,darkgrey,24.1219868295486,10.054523606383002,152.34887000108964,37.96826209037271,56.123410631848486
+318,adipose,UNSIGNED,darkolivegreen,26.682052417398598,10.906800753712687,193.64820226695866,39.30191008232395,67.63474138009848
+319,adipose,UNSIGNED,darkmagenta,27.289376781819414,11.78479773391151,187.31722606033853,52.61687166124651,69.75206805932899
+320,adipose,UNSIGNED,greenyellow,26.408414301111794,10.265318014446715,167.8736869389773,40.56405296088329,61.277868053854775
+321,adipose,UNSIGNED,indianred4,27.532818693102673,10.860988729368671,157.3439957100944,46.21498723186137,60.48819759110677
+322,adipose,UNSIGNED,grey60,26.60824250903222,11.27159294494791,169.0190681686978,47.803674167869026,63.675644447636735
+323,adipose,UNSIGNED,lightgreen,26.096793432341165,10.141909765746632,178.89573279819695,40.437071933682255,63.89287698249175
+324,adipose,UNSIGNED,green,23.401613357294284,9.539904793455857,143.05966941382079,36.307612624456326,53.07720004725681
+325,adipose,UNSIGNED,honeydew1,27.503209497231285,10.259057202746678,173.704693414241,41.74178443333434,63.30218613688833
+326,adipose,UNSIGNED,lightcyan1,26.16161605285989,10.196569435808739,143.81026551424455,40.52555345395951,55.17350111421817
+327,adipose,UNSIGNED,maroon,25.018195348684337,11.239348572257935,197.35617614242094,49.48556045384201,70.7748201293013
+328,adipose,UNSIGNED,lightcyan,26.09686403085915,11.313373371593887,164.3456546925488,43.13342823356868,61.22233008214263
+329,adipose,UNSIGNED,darkturquoise,26.53143318420652,10.988170411797986,163.44446333449878,39.43548390139587,60.09988770797479
+330,adipose,UNSIGNED,lightyellow,26.723623769263742,10.435207771260634,174.08294557521387,44.907702982802235,64.03737002463512
+331,adipose,UNSIGNED,magenta,20.913017804649517,9.940584069841782,78.66746043437821,34.37235616229462,35.97335461779103
+332,adipose,UNSIGNED,floralwhite,26.115367727775908,11.354927034455716,167.77250239912547,46.7814796404551,63.00606920045305
+333,adipose,UNSIGNED,lavenderblush3,22.50885023127465,11.307008147718843,148.3754547960398,40.004240722237085,55.5488884743176
+334,adipose,UNSIGNED,mediumorchid,24.917422073724943,11.21515086535962,183.42834178049569,42.6955503373413,65.56411626423039
+335,adipose,UNSIGNED,lightsteelblue,26.821746349862753,9.852639097170295,181.6837407712457,44.332851035849465,65.67274431353205
+336,adipose,UNSIGNED,lightpink4,26.711498627416937,11.799867229781084,177.73400700475258,42.22876587999602,64.61853468548665
+337,adipose,UNSIGNED,lightsteelblue1,26.722451662091657,10.69197471381222,127.74814830115817,48.20345588128919,53.34150763958781
+338,adipose,UNSIGNED,lightcoral,28.009936076669,11.133785509280738,144.84526452176232,42.24835082067834,56.5593342320976
+339,adipose,UNSIGNED,ivory,26.411240310122412,11.637907463490908,206.53178525154425,42.50448915558366,71.77135554518532
+340,adipose,UNSIGNED,royalblue,25.939032701397174,10.66973821888629,183.67766709278655,44.13534278039283,66.10544519836571
+341,adipose,UNSIGNED,saddlebrown,25.505744355751535,11.213896343634458,161.2298530462577,44.061211040745114,60.5026761965972
+342,adipose,UNSIGNED,purple,25.294421192103773,10.52080573359533,161.61059272039614,43.340291527568496,60.191527793415936
+343,adipose,UNSIGNED,mediumpurple2,27.51052105837204,9.953555307534785,150.09698717887892,46.382159615687335,58.48580579011826
+344,adipose,UNSIGNED,plum,27.951831975606346,10.743417101043526,175.94214074407748,42.73017851138008,64.34189208302686
+345,adipose,UNSIGNED,mediumpurple3,27.764241567905003,9.946213136513958,184.00045999934005,44.96138425299119,66.66807473918755
+346,adipose,UNSIGNED,palevioletred3,26.981842080058943,9.728966072034702,158.3889770976418,50.83980825719174,61.4848983767318
+347,adipose,UNSIGNED,orange,21.02042966696809,10.30889065285091,123.87614660061035,36.06800702357634,47.818368486001425
+348,adipose,UNSIGNED,salmon,26.481893280056035,10.275978484338909,162.05898834600512,44.5059791517343,60.83070981553359
+349,adipose,UNSIGNED,midnightblue,23.816180010456154,10.316834142783778,145.77281853025156,40.79804543970388,55.175969530798845
+350,adipose,UNSIGNED,salmon4,25.46167778438723,10.98444478531791,187.5731922228752,44.995153135388215,67.25361698199214
+351,adipose,UNSIGNED,orangered4,24.10899386238343,10.015420300664504,158.15172929187557,39.484130652341264,57.94006852681619
+352,adipose,UNSIGNED,navajowhite2,27.184027163598103,11.506593332904442,158.79465198607224,46.06831092334563,60.8883958514801
+353,adipose,UNSIGNED,pink,20.97148163597623,9.97070541818221,122.88473101341295,33.12905008763828,46.73899203880242
+354,adipose,UNSIGNED,plum1,23.68178971825413,9.695344103348654,162.2328742531822,38.89266274846251,58.625667705811864
+355,adipose,UNSIGNED,orangered3,27.439762121044986,10.298710011629709,133.2630902622582,44.883022196729456,53.97114614791559
+356,adipose,UNSIGNED,red,22.947059937458185,9.525333047438467,139.796158189389,42.74879870781544,53.75433747052527
+357,adipose,UNSIGNED,sienna3,25.609864019951512,10.717061121602647,152.07628817602605,40.828138924673,57.3078380605633
+358,adipose,UNSIGNED,plum2,25.00321168832262,11.148089844768412,172.2083994555604,43.32366324485009,62.92084105837537
+359,adipose,UNSIGNED,paleturquoise,24.910196703727074,10.809844454009198,153.48669051049376,44.75019507455338,58.48923168569585
+360,kidney,SIGNED,bisque4,25.442864644311587,10.865605195734863,169.37471542058574,46.84840501107849,63.13289756792767
+361,adipose,UNSIGNED,yellow4,24.665837334334416,11.02796757686375,188.43229148357386,42.65533510997508,66.69535787618678
+362,adipose,UNSIGNED,yellow,25.98429626964996,10.746435067955721,135.5469711919163,41.344132896854646,53.40545885659415
+363,adipose,UNSIGNED,thistle1,25.963522822045814,9.879730482984673,149.33488507154763,40.158179139582565,56.33407937904017
+364,adipose,UNSIGNED,turquoise,22.236826331397964,9.932202301905813,142.59381565781632,38.26209161801886,53.25623397728474
+365,kidney,SIGNED,black,23.343021813220027,10.067966466328727,138.6272954622504,46.19225490676883,54.55763466214199
+366,adipose,UNSIGNED,skyblue,26.671665230918286,10.47577700156078,155.86967008131867,44.09772462000591,59.27870923345091
+367,adipose,UNSIGNED,grey,25.033949377774146,10.698555722452545,164.54849320824192,38.10362680867152,59.59615627928503
+368,adipose,UNSIGNED,tan,22.464236327044546,10.679918578901827,154.160327497558,36.480258007640934,55.94618510278633
+369,kidney,SIGNED,brown4,27.704143843331057,12.13100678497399,175.56690196378295,51.71217354291427,66.77855653375057
+370,adipose,UNSIGNED,white,26.207979219713433,10.778819857184901,165.3954732771068,43.7430178885084,61.53132256062838
+371,adipose,UNSIGNED,violet,25.162414116709524,11.403456320935506,160.04862352555313,47.267289005886525,60.97044574227117
+372,adipose,UNSIGNED,skyblue1,27.065975624841098,10.881641279069871,165.46458453420846,48.791188895476296,63.050847583398934
+373,adipose,UNSIGNED,thistle2,26.63280868571341,10.958919129067368,202.27480404156722,46.40067036917621,71.56680055638105
+374,kidney,SIGNED,blue,24.131424541518523,11.202639357092467,191.14804382657766,46.25601201362967,68.18452993470459
+375,adipose,UNSIGNED,skyblue3,26.568732980632397,11.53828484621377,176.10005473509852,49.52803195441852,65.9337761290908
+376,adipose,UNSIGNED,steelblue,28.384408591644117,11.304688257356103,163.99349538419472,51.32270982815491,63.75132551533747
+377,kidney,SIGNED,brown,21.957429581066116,10.578905540394661,136.53375216739542,41.772643056275385,52.7106825862829
+378,adipose,UNSIGNED,skyblue2,27.050587237057112,11.700078253171084,154.45678977566305,40.14458355749996,58.3380097058478
+379,adipose,UNSIGNED,yellowgreen,25.571831757698977,11.200188302325035,156.43875804482082,46.821900293353295,60.00816959954953
+380,kidney,SIGNED,darkturquoise,24.31160268267565,10.61598099838242,123.13293600586918,39.758581394776364,49.454775270425905
+381,kidney,SIGNED,darkgreen,24.156317648093513,10.696492860231729,180.87379167854715,42.464527725719186,64.5477824781479
+382,kidney,SIGNED,lightsteelblue1,22.475548051812584,10.93690395843633,180.46911405926036,38.65453905924591,63.1340262821888
+383,kidney,SIGNED,grey60,22.380626320894635,10.086971441838552,146.5845579001138,40.3368431150862,54.847249694483295
+384,kidney,SIGNED,darkorange,26.825217491602952,11.460446781905283,169.85194737483516,49.36017628900821,64.37444698433791
+385,kidney,SIGNED,darkolivegreen,26.12886737586842,10.164330604016394,166.3532057368743,44.54751619884292,61.7984799789005
+386,kidney,SIGNED,lightgreen,25.77208604156963,11.440962105377833,183.46887576819412,41.63300142409666,65.57873133480956
+387,kidney,SIGNED,floralwhite,24.002405709839437,10.473819712034176,113.33171693049356,44.54544863465595,48.08834774675578
+388,kidney,SIGNED,darkred,26.793142192112985,11.306830598644009,180.87361961594692,42.9221097501509,65.47392553921371
+389,kidney,SIGNED,lightpink4,28.77821651882586,11.42400376720134,164.096660170027,48.3894127476187,63.17207330091823
+390,kidney,SIGNED,darkgrey,24.96929415394402,10.681382604774031,188.88078796719066,47.44540935263315,67.99421851963547
+391,kidney,SIGNED,lightcyan,23.692953379097663,11.014218538215953,134.94900640963917,38.681644543557724,52.08445571762763
+392,kidney,SIGNED,darkslateblue,26.508766837404067,11.413711032163427,202.56761592262816,47.56261044520669,72.01317605935058
+393,kidney,SIGNED,lightcyan1,27.445661705400482,11.697482610437872,168.1385645492373,52.48469742796743,64.94160157326077
+394,kidney,SIGNED,greenyellow,22.58522226530907,9.822920335965502,125.15853916677064,39.91866606045815,49.37133695712584
+395,kidney,SIGNED,darkmagenta,26.04884177799141,11.582719908027919,160.48339379938022,47.28506764999135,61.35000578384772
+396,kidney,SIGNED,darkorange2,26.526819360339772,10.831656868522005,129.36513288444237,42.1947827650916,52.22959796959894
+397,kidney,SIGNED,ivory,25.07089487001094,9.53903364591904,152.69102754212813,37.19976244009295,56.12517962453776
+398,kidney,SIGNED,cyan,24.343242831149087,11.933617624786184,173.18806779627002,43.59070101545897,63.26390731691606
+399,kidney,SIGNED,green,26.087868022837306,11.085762622724186,193.12728524232776,49.51791900172107,69.95470872240257
+400,kidney,SIGNED,salmon4,25.84237027442566,10.003342004445093,129.4098177519846,45.528522066895206,52.69601302443765
+401,kidney,SIGNED,maroon,25.86213744130466,11.137549069821452,177.80729623092915,47.47409983811629,65.57027064504288
+402,kidney,SIGNED,orange,22.85637670298605,10.775009988507243,148.48757290417106,44.025311387244315,56.536067745727166
+403,kidney,SIGNED,orangered4,24.842628618431227,10.71578521872482,140.35726761845896,38.87554580809422,53.69780681592731
+404,kidney,SIGNED,sienna3,24.26433581362612,10.879804479357942,121.14718947098318,48.11604508619552,51.10184371254069
+405,kidney,SIGNED,midnightblue,21.02271440441317,9.943365595343174,111.77167744690377,35.554311554280766,44.57301725023522
+406,kidney,SIGNED,mediumpurple3,26.095392682114245,10.769944545747611,153.49217874748888,45.463486239311344,58.95525055366552
+407,kidney,SIGNED,lightyellow,29.345426357574244,10.938176838373995,175.56604235315007,49.59620845827038,66.36146350184217
+408,kidney,SIGNED,saddlebrown,24.1365300583637,11.131935127634447,180.39192342653874,44.088472500521476,64.93721527826459
+409,kidney,SIGNED,red,24.47593733473925,11.24502650349584,212.95483375823636,50.17037107466567,74.71154216778427
+410,kidney,SIGNED,plum2,26.653497438967435,12.147132516973613,196.1832527467653,48.740418341940156,70.93107526116162
+411,kidney,SIGNED,plum1,27.233921021178897,10.953090925080872,151.43353133711364,51.413019602229284,60.25839072140067
+412,kidney,SIGNED,royalblue,25.86380330900307,11.108469837906354,174.4042516124312,42.80631879140803,63.545710887687164
+413,kidney,SIGNED,paleturquoise,28.652191743536452,11.317784233521152,160.8640017553839,50.40376322378769,62.809435239057294
+414,kidney,SIGNED,palevioletred3,26.398033030395567,10.199280535639863,165.64723332711407,47.498252323011336,62.43569980404021
+415,kidney,SIGNED,salmon,22.18544470978394,10.69093738661738,138.7247815672913,35.96518703383497,51.8915876743819
+416,kidney,SIGNED,navajowhite2,27.55545863540394,11.869443063045763,167.24919461333175,51.2335338804082,64.47690754804742
+417,kidney,SIGNED,pink,22.02750158590575,10.038302446322257,133.36075384646207,38.13497605155262,50.89038348256068
+418,kidney,SIGNED,purple,22.76675389539293,10.743712145383354,172.5499385817967,39.925101430153525,61.49637651318163
+419,kidney,SIGNED,magenta,25.402366626923712,11.357394379832392,178.8921232955802,49.24094852156223,66.22320820597464
+420,kidney,UNSIGNED,antiquewhite2,26.85377613078719,10.850181166732392,179.67906923086647,49.911463955387944,66.8236226209435
+421,kidney,UNSIGNED,brown2,24.01101133830212,11.097850985368403,169.22331772167286,46.46897123061074,62.70028781898853
+422,kidney,SIGNED,turquoise,22.973526530429933,11.088492941471754,160.59951423736615,39.68978561415435,58.58782983085555
+423,kidney,UNSIGNED,bisque4,26.4672235373072,11.56195854001712,166.83526025441387,45.6682319943897,62.633168581531976
+424,kidney,SIGNED,steelblue,23.664960382706145,10.419713194237332,171.88823769391516,37.62018038071849,60.89827291289428
+425,kidney,SIGNED,yellow,23.622361706109178,10.9315963082053,141.09850725006908,41.18116209986392,54.208406841061866
+426,kidney,SIGNED,thistle1,21.051624421106727,11.608159147410968,126.5755493205496,36.791430236104546,49.00669078129296
+427,kidney,SIGNED,tan,23.166963173470148,10.970798656986139,142.73805276385616,37.32965984621509,53.55136861013188
+428,kidney,SIGNED,skyblue,24.69705104980852,10.734112714823375,143.58601783138775,44.83101539082431,55.96204924671099
+429,kidney,UNSIGNED,brown,26.179874925499824,11.266839107437551,181.81912679603883,46.71641588728746,66.49556417906591
+430,kidney,UNSIGNED,black,24.777975568057958,10.534785765215787,184.63570625912132,47.30582739093804,66.81357374583327
+431,kidney,UNSIGNED,antiquewhite4,24.860339885797103,11.118983464852644,131.83509322009272,46.43476383670094,53.562295101860855
+432,kidney,SIGNED,thistle2,23.097413816929407,10.770538359058744,135.6324663656568,42.07256968525802,52.89324705672574
+433,kidney,SIGNED,violet,26.264943383164457,11.265030225113692,168.13116032993435,52.79965865146649,64.61519814741975
+434,kidney,SIGNED,yellowgreen,25.328543237467745,10.90711521054469,155.35879568319325,43.09740394209948,58.67296451832629
+435,kidney,SIGNED,white,25.59975377677976,10.938528690504684,180.29260741453524,46.16930974799618,65.75004990745397
+436,kidney,UNSIGNED,blue,24.35901019780922,11.189056022340118,159.42668491931732,41.75074523637287,59.18137409395988
+437,kidney,UNSIGNED,blue2,27.439613614644497,11.356621414760303,198.80354226746388,46.26600823841308,70.96644638382044
+438,kidney,SIGNED,grey,27.259963854695325,10.524943422410121,181.42167978650474,52.578468412392745,67.94626386900073
+439,kidney,SIGNED,skyblue3,26.86933800183865,10.906581993633255,158.9727456098902,54.96420721805054,62.92821820585316
+440,kidney,UNSIGNED,darkgrey,24.208177540952867,10.866554466631301,156.56374260523907,40.60652573356355,58.0612500865967
+441,kidney,UNSIGNED,darkviolet,18.771664198547583,10.850786901293516,126.5389627384813,33.654304075859166,47.45392947854539
+442,kidney,UNSIGNED,darkmagenta,26.893441618205376,11.746699321135521,210.54425131992102,49.603048501155044,74.69686019010425
+443,kidney,UNSIGNED,darkolivegreen4,26.549843858671196,11.448488557400436,196.09917572273997,49.49507702708126,70.89814629147321
+444,kidney,UNSIGNED,darkturquoise,25.78118396071098,11.805116661551976,169.9532654454781,43.31572947822819,62.71382388649232
+445,kidney,UNSIGNED,coral3,27.0356725005454,10.85954407435604,153.5688435279646,48.7329116162173,60.049242929770834
+446,kidney,UNSIGNED,darkolivegreen,25.756754149499695,9.5905720293349,177.42620970037353,44.82442707579297,64.39949073875027
+447,kidney,UNSIGNED,darkorange2,25.806896825517217,10.457531887016989,133.57900678003801,44.35755081317189,53.550246576436024
+448,kidney,UNSIGNED,darkslateblue,26.864467670758753,10.954145896591175,167.8207698661801,48.622946968119365,63.56558260041234
+449,kidney,UNSIGNED,darkred,25.51940305495208,10.63955812239544,167.34915872818578,45.256513834610544,62.19115843503596
+450,kidney,UNSIGNED,darkseagreen4,23.98417981658294,10.682761936070989,138.92607202579865,41.181194720718835,53.69355212479286
+451,kidney,UNSIGNED,coral1,26.566861521631836,11.39324752679975,141.72068357479867,43.066967513811576,55.68694003426046
+452,kidney,UNSIGNED,darkorange,25.828972631438994,11.471661063781312,164.61978369624114,49.02803272591785,62.73711252934483
+453,kidney,UNSIGNED,coral2,22.982506910561472,11.498294390799582,181.67079255480724,42.137443277565055,64.57225928343334
+454,kidney,UNSIGNED,darkgreen,25.50250499791894,10.844401058831249,126.3013298219021,42.77556104091078,51.35594922989077
+455,kidney,UNSIGNED,brown4,26.0170247027585,9.286181805006185,159.46591069436943,37.32684713422847,58.023991084090646
+456,kidney,UNSIGNED,cyan,26.49027342532116,10.927027064660324,146.98217552131575,44.81382246099961,57.30332461807421
+457,kidney,UNSIGNED,firebrick4,27.094023878537726,11.306701754616359,159.0609271400977,55.50563902491934,63.24182294954278
+458,kidney,UNSIGNED,coral,27.85632953163457,11.320652604657292,196.2149406220403,51.86919008195616,71.81527821007208
+459,kidney,UNSIGNED,darkseagreen3,26.4471717558204,11.60731983493004,147.99291768643133,47.385582506998446,58.358247946045054
+460,kidney,UNSIGNED,ivory,25.73916519640852,11.224268385049395,208.77336508445916,49.86133106096381,73.89953243172023
+461,kidney,UNSIGNED,honeydew,27.343964318003124,10.902945049474992,158.02605650387517,52.41791186108487,62.172719433109535
+462,kidney,UNSIGNED,lightcoral,26.589414562239405,11.006083604413137,143.54399513809832,48.31500004941564,57.36362333854162
+463,kidney,UNSIGNED,green,23.665724016834254,11.372235208151983,166.8146886569405,43.74898907398527,61.400409238978
+464,kidney,UNSIGNED,lightpink4,27.91016319307894,10.73592064979207,168.5871887790976,50.73832321828849,64.49289896006428
+465,kidney,UNSIGNED,lavenderblush3,26.614728201722958,10.308634558110445,135.03179627839194,49.029760811977276,55.24622996255065
+466,kidney,UNSIGNED,indianred4,27.054938856109363,11.309228519740829,201.05466327341216,49.639913193093214,72.26468596058889
+467,kidney,UNSIGNED,grey60,22.792038125470683,11.035558973814036,142.48499589324274,37.74979478510826,53.515596944408934
+468,kidney,UNSIGNED,magenta,24.86051122990037,11.014683306384786,174.05064035332325,46.811951178670746,64.18444651706979
+469,kidney,UNSIGNED,lightcyan,26.340596590197325,10.963670785091868,172.99679586256917,46.104037895166485,64.10127528325621
+470,kidney,UNSIGNED,honeydew1,27.070737773964666,12.109336685435618,176.1119098173183,50.92557769774113,66.55439049361493
+471,kidney,UNSIGNED,lightgreen,25.670001605187558,11.147383841117628,175.41006749863072,43.950128729449006,64.04439541859622
+472,kidney,UNSIGNED,greenyellow,26.462169487359933,11.709420003712125,207.8877888450695,51.26132821662077,74.33017663819058
+473,kidney,UNSIGNED,lightsteelblue1,26.57612136890359,9.962060748100921,160.2464544370183,45.543764896498644,60.58210036263036
+474,kidney,UNSIGNED,floralwhite,26.320845128508985,10.96061072703911,167.76458843030395,45.35134624080942,62.59934763166537
+475,kidney,UNSIGNED,lightcyan1,26.016293038114284,11.726550800232484,160.72865487680662,44.51820148405042,60.74742504980095
+476,kidney,UNSIGNED,lavenderblush2,25.419725488729767,11.220250573297408,199.9384588121838,45.5559169073333,70.53358794538607
+477,kidney,UNSIGNED,lightsteelblue,26.905188386352226,10.938072189582238,169.48143264749746,46.848942265458625,63.543408872222635
+478,kidney,UNSIGNED,lightyellow,25.77028375213927,11.420229377537384,176.62709334397354,53.250723150034354,66.76708240592113
+479,kidney,UNSIGNED,lightpink3,26.72615101611698,10.822838118133905,176.7354678021087,55.79717268365333,67.52040740500323
+480,kidney,UNSIGNED,navajowhite1,27.880058268874407,10.390313758152066,170.9178121991884,46.93290227817898,64.03027162609847
+481,kidney,UNSIGNED,pink4,25.936401198856313,11.336852745257685,170.27048327487512,48.68251782468679,64.05656376091898
+482,kidney,UNSIGNED,paleturquoise,27.999505947705437,10.790090912268472,173.04699014136787,50.60072404328796,65.60932776115745
+483,kidney,UNSIGNED,orange,25.158032445426976,10.925826198822966,136.97787261791652,48.30608127368866,55.341953133963784
+484,kidney,UNSIGNED,plum,28.24515460070998,10.873263048993673,172.8736047920154,44.60978412366081,64.15045164134497
+485,kidney,UNSIGNED,midnightblue,22.363946886473958,11.013189557042,158.6268694277094,38.88738234508492,57.72284705407757
+486,kidney,UNSIGNED,pink,25.911919489772366,11.830148681071597,182.88160660717753,50.18537150854887,67.7022615716426
+487,kidney,UNSIGNED,mediumpurple3,24.59607911472548,10.596461122346689,152.08514983685836,48.35984160135215,58.90938291882067
+488,kidney,UNSIGNED,maroon,26.53705036078316,10.869230596413217,162.07162046035975,48.866133293641006,62.086008677799285
+489,kidney,UNSIGNED,orangered1,26.74928701262944,11.632944722682048,147.92773332753336,49.5938115455952,58.97594415211002
+490,kidney,UNSIGNED,magenta4,25.801674193666006,9.743783927547836,173.6207783560221,45.746785306818836,63.72825544601369
+491,kidney,UNSIGNED,palevioletred2,26.457987852872034,10.245613045326227,137.81181228184553,45.43218942215577,54.98690065054989
+492,kidney,UNSIGNED,mediumpurple2,26.621270292164862,11.612369988263389,188.78244009167622,48.91273388055633,68.9822035631652
+493,kidney,UNSIGNED,orangered4,26.984742634220733,10.869210256459441,154.5593184979558,40.34178698782751,58.18876459411587
+494,kidney,UNSIGNED,palevioletred3,21.628696230224588,11.122678419072763,119.3016784427751,41.55559320224136,48.402161573578454
+495,kidney,UNSIGNED,orangered3,26.921839024507666,11.179415955135415,161.05779858265174,52.70380032652186,62.96571347220417
+496,kidney,UNSIGNED,mediumorchid,25.94789330741171,11.445954131840432,131.56819832546543,43.558514053258754,53.130139954494084
+497,kidney,UNSIGNED,plum1,26.07225815260022,10.145351798988097,174.27225904582048,45.472183175029116,63.99051304310947
+498,kidney,UNSIGNED,mediumpurple4,25.698853141045046,11.547703825043827,156.8547982733634,51.4695965144117,61.392737938466
+499,kidney,UNSIGNED,navajowhite2,25.368360404012684,11.143493858823346,78.64062676842231,41.78098752274749,39.23336713850146
+500,kidney,UNSIGNED,royalblue,23.729291912758807,10.148219286769464,123.17793927485981,41.78959515718559,49.71126140789342
+501,kidney,UNSIGNED,skyblue,23.49832106808035,10.898042412839239,170.91555033715855,39.092455313229536,61.101092282826926
+502,kidney,UNSIGNED,saddlebrown,24.66131029288098,10.430506125600273,121.40379378838202,41.916656259658524,49.60306661663044
+503,kidney,UNSIGNED,skyblue4,25.53266370606876,11.064817059742706,168.88037561800124,47.11402069898444,63.147969270699285
+504,kidney,UNSIGNED,salmon4,24.164540003266996,10.832357847253414,112.58605525035719,36.988821851216876,46.14294373802362
+505,kidney,UNSIGNED,thistle1,26.997036941473674,10.4908511360519,166.59447843081207,50.79642795484873,63.719698615796595
+506,kidney,UNSIGNED,plum3,27.195688367537034,11.225036747202331,175.1109530705254,47.19070114715237,65.18059483310428
+507,kidney,UNSIGNED,sienna3,23.880539492655487,10.97075559387362,164.32735779070205,42.18627728442142,60.341232540413145
+508,kidney,UNSIGNED,red,22.450639374359085,9.714217832140804,131.68430760126216,39.833079884506745,50.9205611730672
+509,kidney,UNSIGNED,tan,27.85429642720706,11.369930197241143,169.42342925813526,45.963426082174415,63.65277049118947
+510,kidney,UNSIGNED,salmon,22.384171156332783,11.032253843065144,157.63004744376713,38.32061576095761,57.34177205103066
+511,kidney,UNSIGNED,sienna4,22.363745761500862,10.8366208467265,156.7697381905707,43.19369790505697,58.290950675963764
+512,kidney,UNSIGNED,steelblue,26.092181348130485,11.246008213119817,116.98507642879264,43.678233786530335,49.500374944143324
+513,kidney,UNSIGNED,skyblue3,27.156198497500668,11.760789989799289,190.01139373559954,49.851981281911165,69.69509087620267
+514,kidney,UNSIGNED,skyblue1,25.29296080663812,10.64169482271093,139.34673428083502,47.089261526130684,55.59266285907869
+515,kidney,UNSIGNED,purple,25.603915540730043,11.188629644242964,182.06921436365462,43.753692851257,65.65386309997115
+516,kidney,UNSIGNED,salmon2,22.590112545758757,11.532408952247794,152.40188080337037,45.270715633147745,57.94877948363117
+517,kidney,UNSIGNED,plum2,28.650554637578,11.080301860045315,156.20142452185496,49.00519761539377,61.23436965871801
+518,kidney,UNSIGNED,skyblue2,25.450864074639025,11.645124020271798,213.2351772579764,46.50074319254667,74.20797713635848
+519,kidney,UNSIGNED,thistle,26.12930833488138,11.435234689891345,158.33731104646046,48.226921076499664,61.032193786933206
+520,kidney,UNSIGNED,thistle3,26.478162373489127,10.93316283257205,198.24711380306283,47.10680571289601,70.69131118050501
+521,kidney,UNSIGNED,thistle2,25.979936863719715,11.795126783009643,197.52956407530556,45.864794509438475,70.29235555786835
+522,gastroc,SIGNED,darkolivegreen,28.036951605124976,10.58123742022132,169.81560990048843,46.700573231163226,63.78359303924948
+523,kidney,UNSIGNED,yellowgreen,24.09391255519556,10.552845425179644,177.07845696307064,42.20148649150779,63.48167535873841
+524,gastroc,SIGNED,cyan,27.145286747806125,11.142384984279174,170.30285453994622,44.817203324690034,63.35193239918039
+525,kidney,UNSIGNED,turquoise,22.621169674353062,10.659690409741136,150.05136905561915,38.80755713910568,55.53494656970476
+526,gastroc,SIGNED,darkgrey,28.541866146639816,12.111577295028896,179.8883398300234,50.16181254174569,67.67589895335945
+527,gastroc,SIGNED,darkred,25.37603821098769,9.902759960788753,165.0373418102568,45.57686487611286,61.473251214536525
+528,kidney,UNSIGNED,violet,24.929736285713588,10.608898869897086,158.49115677648018,44.30242507713099,59.58305425230546
+529,kidney,UNSIGNED,white,24.745320020333335,10.232856685177081,192.1494771803757,41.40864940547357,67.13407582283992
+530,kidney,UNSIGNED,yellow3,26.873111804617363,11.43518837011727,152.44659026222857,47.732168753875236,59.62176479770961
+531,gastroc,SIGNED,darkorange,25.82039965081465,11.996975288068688,151.20986521685677,49.02610734977897,59.51333687637977
+532,gastroc,SIGNED,blue,27.427475362606792,10.255382062738697,148.56959651522175,46.05999788730753,58.078112956968695
+533,gastroc,SIGNED,brown,25.306178760754825,10.50290393495969,133.09907580497878,40.330209371030705,52.309591967931
+534,gastroc,SIGNED,black,27.32665810810407,10.778238963076035,170.3119413706335,46.811434431829156,63.807068218410684
+535,kidney,UNSIGNED,yellow,24.250515919747453,11.122260725877288,184.79332474995917,42.49571606550194,65.66545436527146
+536,gastroc,SIGNED,darkmagenta,27.245632794219567,11.04208246879199,167.49848701832232,43.62960591055164,62.35395204797138
+537,kidney,UNSIGNED,yellow4,26.920230012438463,10.631984496233374,175.44043695332755,48.682673180988225,65.4188311607469
+538,kidney,UNSIGNED,grey,26.904001161421387,10.575557340824762,181.43657595824337,50.28649902350825,67.30065837099944
+539,gastroc,SIGNED,darkgreen,22.90031538974272,10.05802433381918,148.06017873912455,46.436922969972876,56.86386035816483
+540,gastroc,SIGNED,lightgreen,26.833605020338965,11.47564415772701,138.23969139140044,44.24493224427589,55.19846820343558
+541,gastroc,SIGNED,green,25.124385454700658,10.680901021329404,139.4276723415041,44.267131508909785,54.875022581610985
+542,gastroc,SIGNED,greenyellow,26.24090389448113,10.049371256806445,123.8660192287655,39.21585033491911,49.84303617874304
+543,gastroc,SIGNED,orange,26.286271522080174,11.950732131813476,169.32816867489487,48.6715750735877,64.05918685059406
+544,gastroc,SIGNED,steelblue,26.82379230913769,11.17718226338035,180.20773303345513,49.727705487596836,66.98410327339249
+545,gastroc,SIGNED,pink,26.67651192315916,11.143705331821282,175.4568021507345,46.10802616879163,64.84626139362663
+546,gastroc,SIGNED,darkturquoise,25.799491135633048,11.715796297819347,166.4208305319667,43.80504509699121,61.93529076560257
+547,gastroc,SIGNED,skyblue,26.04003015507546,11.680621811416719,151.90633552251774,43.096260297624035,58.18081194665849
+548,gastroc,SIGNED,tan,25.38663394655199,10.64192871155587,180.48257636871853,42.438595644141785,64.73743366774204
+549,gastroc,SIGNED,lightcyan,24.68965340329123,10.843671924544878,158.41586159334818,44.54767903170693,59.62421648822281
+550,gastroc,SIGNED,royalblue,25.30173689199313,11.21790636161635,164.15166646632915,40.604592787214195,60.3189756267882
+551,gastroc,SIGNED,magenta,24.181715973521523,9.990136730129008,155.66498944970527,40.55373051341638,57.59764316669305
+552,gastroc,SIGNED,salmon,23.68466678042902,10.598691043872106,173.45749741268412,38.501510164840674,61.560591350456484
+553,gastroc,SIGNED,saddlebrown,27.347985041910945,12.142585367721804,180.84831261639283,51.407851102898825,67.9366835322311
+554,gastroc,SIGNED,lightyellow,26.094439810267385,10.771565989391515,144.8081016712502,46.19293958540801,56.96676176407928
+555,gastroc,SIGNED,midnightblue,24.48616738703726,10.419900853781687,144.30393239957274,39.88378000807319,54.77344516211622
+556,gastroc,SIGNED,paleturquoise,27.560853960186044,11.126927868928444,183.4382025648518,50.690930422382216,68.20422870408713
+557,gastroc,SIGNED,red,27.351015359139396,10.92623895979301,174.12528399945683,47.83063527435735,65.05829339818665
+558,gastroc,SIGNED,grey60,24.306422561189994,10.745434060768842,174.09858720660176,41.67006687658454,62.70512767628628
+559,gastroc,SIGNED,purple,22.30735907111576,10.114238471642704,107.32396810642089,38.634607688031416,44.595043334302694
+560,gastroc,UNSIGNED,pink,27.017312169693312,11.804910326414815,160.97864336097035,53.65218101739559,63.36326171861852
+561,gastroc,UNSIGNED,green,28.4271043526764,10.54799153122774,158.0938852988139,46.907011332952315,60.99399812891759
+562,gastroc,SIGNED,violet,26.96664995654232,10.76212661310369,151.36861531309432,44.07942232885655,58.29420355289922
+563,gastroc,UNSIGNED,yellow,26.324751669299058,10.733136715457531,152.6955644722256,46.42784843624587,59.04532532330701
+564,gastroc,SIGNED,turquoise,25.990771430388403,11.025950038945641,160.40347814809712,46.29727783030693,60.929369361934526
+565,gastroc,UNSIGNED,tan,27.401707351350623,10.89840898458513,159.08001393093355,49.97546616248366,61.838899107338236
+566,gastroc,UNSIGNED,magenta,25.35858772300081,10.519837753492927,136.622314032829,44.59062414838986,54.272840914428144
+567,gastroc,UNSIGNED,greenyellow,25.404291957119625,11.002532528583354,154.89126845501616,45.44886064960535,59.186738397581124
+568,gastroc,UNSIGNED,turquoise,27.303847425394494,10.121811627899953,155.69998869994296,45.819480349351345,59.73628202564719
+569,gastroc,UNSIGNED,mediumpurple3,25.306234670705834,11.040376551077395,151.38217240487,41.946585538142656,57.41884229119897
+570,gastroc,SIGNED,white,22.576391068838326,10.20826052282214,140.6816444980392,37.540541698036,52.751709446933916
+571,gastroc,UNSIGNED,black,24.086614679727543,10.28995193490551,169.81248848975522,41.25693180419921,61.36149672714687
+572,gastroc,UNSIGNED,purple,26.248602320251102,10.121690274066308,107.88656940410463,38.53158493009251,45.69711173212863
+573,gastroc,UNSIGNED,darkgrey,25.689841963056594,10.286313885875845,138.46610111589123,41.19944894707266,53.910426477974084
+574,gastroc,UNSIGNED,plum1,27.237958804538962,10.78368792768121,143.90533144234183,45.5133740165031,56.860088047766276
+575,gastroc,SIGNED,yellow,27.41223675205336,11.107402150783523,176.14807480221594,50.25108915927225,66.22970071608127
+576,gastroc,UNSIGNED,red,27.4604932340708,10.092881777629056,149.7175877716137,46.087416241711985,58.33959475625639
+577,gastroc,UNSIGNED,blue,26.706109476289964,10.204954730133725,136.23091262443177,44.17478846643578,54.329191324322814
+578,gastroc,SIGNED,grey,26.97581985225643,11.642630862087172,202.5973098759962,48.05768128846668,72.31836046970162
+579,gastroc,UNSIGNED,brown,26.126819666675296,10.428159396073355,137.17148917413957,40.774213375791966,53.625170403170046
+580,gastroc,UNSIGNED,brown4,25.74196551470438,10.508999195735859,137.5277429639122,43.63287695833188,54.35289615817108
+581,gastroc,UNSIGNED,bisque4,26.94845147873704,10.86212374894501,174.79231724393225,44.62621877135708,64.30727781074285
+582,gastroc,UNSIGNED,darkred,18.573653509519826,10.65160236658724,88.53443989566465,30.22551292923321,36.99630217525123
+583,gastroc,UNSIGNED,palevioletred3,28.256753292342474,11.311924858929014,185.8623985225384,50.428502754022084,68.964894856958
+584,gastroc,UNSIGNED,floralwhite,27.05817059496524,11.521914915196488,172.52786308648092,42.195193471015465,63.32578551691453
+585,gastroc,UNSIGNED,lightcyan,26.95662849184614,10.595491628224082,182.37154881684805,45.4089325848007,66.33315038042974
+586,gastroc,UNSIGNED,lightgreen,26.175877173620826,10.614533473763,160.04687236621209,41.373313297372476,59.552649077742096
+587,gastroc,UNSIGNED,midnightblue,27.149793615762828,11.03682539912216,150.8389165847738,47.574058705742424,59.14989857635031
+588,gastroc,UNSIGNED,lightyellow,26.337269251287847,10.544211612718911,154.54792554442344,42.30899534310977,58.434600437884995
+589,gastroc,UNSIGNED,violet,28.286761356528988,11.493968756105847,168.50861684638463,48.03679872183514,64.08153642021365
+590,gastroc,UNSIGNED,navajowhite2,27.766312229091287,10.678812119404869,137.4911834448099,51.04863684706743,56.746236160093375
+591,gastroc,UNSIGNED,salmon,26.509375930722427,10.870679402314565,169.3404556163873,44.186714760626025,62.72680642751258
+592,gastroc,UNSIGNED,sienna3,26.494287901915918,10.465318935130057,167.68344174361332,49.58321159056966,63.556565042807236
+593,gastroc,UNSIGNED,paleturquoise,27.182933607363708,10.317561693306168,170.0448931792867,48.3855916885126,63.982745042117294
+594,gastroc,UNSIGNED,darkgreen,25.815693632375236,11.738870086161509,136.4441401482181,48.58359844193427,55.64557557717228
+595,gastroc,UNSIGNED,orange,28.085224666895957,11.097191331893718,166.51989862687748,46.76947229689051,63.11794673063942
+596,gastroc,UNSIGNED,darkturquoise,27.38590170972338,11.429264688804116,167.24234768618146,47.43465146708432,63.37304138794832
+597,gastroc,UNSIGNED,darkslateblue,27.40274703698244,11.765224521741816,154.3744118431189,45.085950845584115,59.657083561856815
+598,gastroc,UNSIGNED,steelblue,25.596956725339084,10.308629581088878,143.55259100241776,45.86004993488835,56.329556810933525
+599,gastroc,UNSIGNED,skyblue,27.40735526655771,10.536759469426242,151.20343823597278,43.40440627835087,58.137989812576905
+600,gastroc,UNSIGNED,skyblue3,27.396696070597663,10.397813865819682,167.6050245630247,45.19685535975647,62.649097464799624
+601,gastroc,UNSIGNED,grey60,25.654639602521705,10.380253405018738,159.7737260755321,42.38917072641069,59.549447452370806
+602,gastroc,UNSIGNED,orangered4,26.630973583401445,9.635554060050021,122.79506498045872,45.052710298181424,51.0285757305229
+603,gastroc,UNSIGNED,thistle1,29.043035192025407,9.457778786730307,137.5431422923819,43.72142870661347,54.941346244437774
+604,gastroc,UNSIGNED,lightpink4,25.465754295156763,11.759416801157748,145.1404662420824,51.16286640196618,58.38212593509077
+605,gastroc,UNSIGNED,lightsteelblue1,25.788084699070218,11.794995746560216,154.66471705315894,43.18064862612851,58.85711153122947
+606,gastroc,UNSIGNED,cyan,25.60741512617331,11.929371842505661,165.14493613455346,43.69886684351557,61.595147486687
+607,gastroc,UNSIGNED,lightcyan1,27.061176802677657,10.929904718247963,176.85041209546117,39.40659720820059,63.56202270614685
+608,gastroc,UNSIGNED,yellowgreen,29.267499474598118,11.92827930598632,165.44975420915102,53.80469178234698,65.11255619302061
+609,gastroc,UNSIGNED,plum2,25.72853582563144,11.279003013716876,158.17499373337688,50.280649337467985,61.365795477548296
+610,gastroc,UNSIGNED,maroon,28.446802588644303,10.45571029134133,126.62012943576988,40.31588506968176,51.45963184635932
+611,gastroc,UNSIGNED,royalblue,26.741910499294306,10.93730873494208,156.48602478543384,50.75009096124824,61.22883374522962
+612,gastroc,UNSIGNED,darkorange,24.96530855633117,10.849455080013264,166.86291146304524,44.54146142375828,61.804784130786985
+613,gastroc,UNSIGNED,thistle2,27.5122910454567,12.505853119994468,186.90334389468762,49.94625700950712,69.21693626741148
+614,gastroc,UNSIGNED,darkolivegreen,27.437587188618416,11.287878743118792,169.24757325900663,41.455321917074535,62.357090276954594
+615,gastroc,UNSIGNED,ivory,26.89354036183296,11.263027143069706,174.92577163007988,50.7472775622763,65.9574041743147
+616,gastroc,UNSIGNED,white,27.343382886806516,11.546749847568373,178.39534628726653,47.47936254873228,66.19121039259343
+617,gastroc,UNSIGNED,darkorange2,26.484354658600605,10.976138779809858,139.8132000751989,43.6213776183835,55.223767782998216
+618,gastroc,UNSIGNED,saddlebrown,25.305041999118977,10.702366647105164,155.83145153680422,44.020301654937526,58.964790459491475
+619,gastroc,UNSIGNED,darkmagenta,26.77998584948917,10.898153516997224,169.12637034490737,45.25062576574988,63.01378386928591
+620,gastroc,UNSIGNED,salmon4,26.525966859267854,11.385990836834523,129.5939151202723,45.595148555765824,53.27525534303513
+621,gastroc,UNSIGNED,grey,26.7572113852868,11.405408177806889,178.99377027718666,50.14374855490536,66.82503459879644

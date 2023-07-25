@@ -14,16 +14,11 @@ from utils import *
 # use sklearn knn regression method to train a model then predict
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.metrics import mean_squared_error
-from sklearn.metrics import r2_score
 
     
 def run(tissue, sign,module,return_dict):
     # get data
     X_train, X_test, Y_train, Y_test = get_data(tissue, sign,module)
-
-    # use only the last week glucose
-    Y_train = Y_train.iloc[:,-1]
-    Y_test = Y_test.iloc[:,-1]
 
     # train a model
     knn = KNeighborsRegressor(n_neighbors=20)
@@ -37,8 +32,16 @@ def run(tissue, sign,module,return_dict):
         return np.mean(np.abs((y_true - y_pred) / y_true)) * 100
 
     per_err = mean_percentage_error(Y_test, Y_pred)
+    # compute the average percentage error of per_err
+    
+    # compute the mean percentage error
+    per_err_mean = np.mean(per_err)
+    # merge per_err and per_err_mean as pandas dataframe
+    per_err['mean'] = per_err_mean
+    
     # compute the average mean squared error
     return_dict[(tissue, sign,module)] = per_err
+    
     return
 
 
@@ -69,10 +72,20 @@ if __name__ == '__main__':
         for p in batch:
             p.join()
         print('finished batch {}'.format(i))
-    
-    print(return_dict)
 
     # now put return_dict into a dataframe
-    df = pd.DataFrame.from_dict(return_dict, orient='index')
+    # now put dic into a dataframe
+    columns = ['tissue', 'network', 'module', 'glucose','weight', 'insulin', 'triglyceride','mean']
+    result = []
+    for key in return_dict.keys():
+        # parse the key, ('tissue', 'sign', 'module') is in key, 'glucose','weight', 'insulin', 'triglyceride','mean' is in value
+        tissue, sign, module = key
+        # get the value
+        value = return_dict[key]
+        # get the glucose, weight, insulin, triglyceride, mean
+        glucose, weight, insulin, triglyceride, mean = value
+        # put them into a list
+        result.append([tissue, sign, module, glucose, weight, insulin, triglyceride, mean])
+    df = pd.DataFrame(result, columns = columns)
     # save the dataframe
     df.to_csv('knn.csv')

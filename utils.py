@@ -27,9 +27,16 @@ def get_data(tissue,sign,module):
         X = df[genes]
 
     # load the glucose data
-    path = 'cleaned/glucose.csv'
+    traits = ['glucose','weight', 'insulin', 'triglyceride']
+
+    Y = pd.DataFrame(columns = traits)
+    for i in range(len(traits)):
+        trait = traits[i]
+        path = 'cleaned/clinic_traits/{}.csv'.format(trait)
+        temp = pd.read_csv(path, index_col=0)['wk10']
+        Y[trait] = temp
+    
     # only keep the mouse with id appers in X
-    Y = pd.read_csv(path, index_col=0)
     Y = Y.loc[X.index]
 
     # load the train/test split 
@@ -126,6 +133,62 @@ def fill_missing_glucose():
             continue
         for j in range(4):
             glucose[i,j] = clinic.loc[mouse_id[i], glucose_name_tags[j]]
+    
+    # check if there is missing value
+    print("There are {} missing values in glucose".format(np.isnan(glucose).sum()))
+    
+    # for each missing value, fill it in using linear regression
+    for i in range(len(glucose)):
+        for j in range(4):
+            if np.isnan(glucose[i,j]):
+                # get the index of the mice that has no missing value
+                index = np.where(~np.isnan(glucose[:,j]))[0]
+                # get the glucose level of mice that has no missing value
+                glucose_level = glucose[index,j]
+                # use linear regression to predict the missing value
+                glucose[i,j] = np.poly1d(np.polyfit(index, glucose_level, 1))(i)
+    
+    print("After regression, there are {} missing values in glucose".format(np.isnan(glucose).sum()))
+    
+    # save the glucose level to csv file
+    glucose = pd.DataFrame(glucose, index=rna_index, columns=['wk4', 'wk6', 'wk8', 'wk10'])
+    glucose.to_csv("./cleaned/glucose.csv")
+
+
+def fill_missing_clinic_traits():
+    # load in the clinic phenotypes
+    clinic = pd.read_csv('raw_data/(F2)B6_BTBR OB mice_clinic_traits.csv', index_col=0)
+    
+    # load in rna expression data
+    tissues = ['islet', 'liver', 'adipose', 'kidney', 'gastroc']
+    indices = []
+    for tissue in tissues:
+        rna = pd.read_csv('cleaned/{}_rna.csv'.format(tissue), index_col=0)
+        indices.append(rna.index)
+    
+    # get the union of all the indices
+    rna_index = indices[0]
+    for i in range(1, len(indices)):
+        rna_index = rna_index.union(indices[i]) 
+    
+    # stands for weight, glucose, insulin, TRIGLYCERIDE
+    name_tags = ["Unnamed: 23","Unnamed: 25","Unnamed: 26","Unnamed: 27"] 
+    
+    # get the mouse id, conver it to string
+    mouse_id = rna_index.to_list()
+    mouse_id_clinic = clinic.index.to_list()
+    
+    # get rid of 'Mouse' at the beginning of each element of mouse id
+    mouse_id = [i[5:] for i in mouse_id] 
+    
+    glucose = np.zeros((len(mouse_id), 4))
+    # use mouse id and name tag to get the traits
+    for i in range(len(mouse_id)):
+        if mouse_id[i] not in mouse_id_clinic:
+            print("mouse id {} not in clinic data".format(mouse_id[i]))
+            continue
+        for j in range(4):
+            glucose[i,j] = clinic.loc[mouse_id[i], name_tags[j]]
     
     # check if there is missing value
     print("There are {} missing values in glucose".format(np.isnan(glucose).sum()))
