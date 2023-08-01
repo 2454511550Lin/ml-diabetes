@@ -31,10 +31,12 @@ def run(tissue, sign ,module , method, return_dict):
         n_neighbors = [5,10,20,30,40,50]
         metric = ['correlation','minkowski']
         param_grid = {"n_neighbors": n_neighbors,'metric':metric}
+
     if method == 'lasso':
         alpha= [0.1,1,10,100,1000,5000,10000]
         param_grid = {"alpha": alpha}
         model = Lasso(random_state=rds,selection='random',max_iter=3000,tol=0.0005)
+    
     else:
         raise ValueError('method "{}" not supported'.format(method))
     
