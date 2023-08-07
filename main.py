@@ -48,7 +48,7 @@ def run(tissue, sign ,module , method, return_dict):
 
     # compute the average mean percentage error
     def mean_percentage_error(y_true, y_pred):
-        return np.mean(np.abs((y_true - y_pred) / y_true)) * 100
+        return np.mean(np.abs((y_true - y_pred) / y_true),axis=0) * 100
 
     per_err = mean_percentage_error(Y_test, Y_pred)
     # compute the average percentage error of per_err
@@ -88,7 +88,7 @@ if __name__ == '__main__':
                 p = Process(target=run, args=(tissue, sign, module, method, return_dict))
                 process_lst.append(p)
 
-    batch_size = 20
+    batch_size = 5
     # run the processes and get their return values
     for i in range(0, len(process_lst), batch_size):
         batch = process_lst[i:i+batch_size]
@@ -97,6 +97,8 @@ if __name__ == '__main__':
         for p in batch:
             p.join()
         print('finished batch {}'.format(i))
+        break
+
 
     # now put return_dict into a dataframe
     # now put dic into a dataframe
