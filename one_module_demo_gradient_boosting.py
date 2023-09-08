@@ -23,7 +23,7 @@ from sklearn.model_selection import GridSearchCV
 
 # train a model
 rds = np.random.RandomState(0)
-model = GradientBoostingRegressor()  # no randomness, closed form solution
+model = GradientBoostingRegressor(random_state=0)
 params = model.get_params()
 print(params)
 

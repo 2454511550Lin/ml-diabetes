@@ -17,10 +17,12 @@ from utils import *
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.linear_model import Lasso
 
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.model_selection import GridSearchCV
     
 def run(tissue, sign ,module , method, return_dict):
     # get data
-    X_train, X_test, Y_train, Y_test = get_data(tissue, sign,module)
+    X_train, X_test, Y_train, Y_test = get_data(tissue, sign, module)
 
     # to control the randomness
     rds = np.random.RandomState(0)
@@ -35,16 +37,33 @@ def run(tissue, sign ,module , method, return_dict):
     elif method == 'lasso':
         alpha= [0.1,1,10,100,1000,5000,10000]
         param_grid = {"alpha": alpha}
-        model = Lasso(random_state=rds,selection='random',max_iter=3000,tol=0.0005)
-    
+        model = Lasso(random_state=rds, selection='random', max_iter=3000, tol=0.0005)
+
+    elif method =='gradient-boosting':
+        model = GradientBoostingRegressor(random_state=0)
+
+        param_grid = {"max_depth": [3, 5, 7, 9],
+                      "subsample": [0.5, 0.8, 1],
+                      "n_estimators": [50, 100, 150],
+                      "learning_rate": [0.05, 0.1, 0.15, 0.2]
+                      }
     else:
         raise ValueError('method "{}" not supported'.format(method))
-    
-    gsh = GridSearchCV(estimator=model, param_grid=param_grid)
-    gsh.fit(X_train, Y_train)
 
-    # predict
-    Y_pred = gsh.predict(X_test)
+    if method =='gradient-boosting':
+        Y_pred = {}
+        for name in Y_train.keys():
+            print(name)
+            gsh = GridSearchCV(estimator=model, param_grid=param_grid)
+            gsh.fit(X_train, Y_train[name])
+            Y_pred[name] = gsh.predict(X_test)
+        Y_pred = pd.DataFrame.from_dict(Y_pred)
+    else:
+        gsh = GridSearchCV(estimator=model, param_grid=param_grid)
+        gsh.fit(X_train, Y_train)
+
+        # predict
+        Y_pred = gsh.predict(X_test)
 
     # compute the average mean percentage error
     def mean_percentage_error(y_true, y_pred):
