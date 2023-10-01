@@ -1,0 +1,55 @@
+---
+title: "Allez_Enrichment_Analysis"
+author: "Gautam Agarwal"
+date: "2023-08-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+#install.packages("Rtools")
+#install.packages("dplyr")
+#install.packages("tidyverse")
+#install.packages("shiny")
+#install.packages("shinyFiles")
+#install.packages("DT")
+#install.packages("BiocManager", repos = "https://cloud.r-project.org")
+#if (!require("BiocManager", quietly = TRUE))
+#    install.packages("BiocManager")
+#BiocManager::install("org.Mm.eg.db")
+#BiocManager::install("GO.db")
+#BiocManager::install("impute")
+#BiocManager::install("preprocessCore")
+#install.packages("WGCNA")
+#install.packages("remotes")
+#remotes::install_github("atbroman/allez")
+```
+
+## Activating Sources
+
+```{r}
+
+library("WGCNA")
+source("Allez_attie_v3.R")
+source("Attie_olev3.R")
+#gene_universe <-  data.frame(read.csv('gene_universe.csv'))
+
+#gene_set <-  data.frame(read.csv('UNSIGNED.csv'))
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+Attie_Ole_v3('SIGNED.csv','gene_universe.csv')
+
+#for(i in 1:nrow(gene_universe)) {       # for-loop over rows
+#   gene_row<- gene_universe[i, ]
+#   results[i] <- Allez_attie_v3(gene_row["Genes"],gene_row["Universe"])
+#}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
