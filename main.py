@@ -19,6 +19,11 @@ from sklearn.linear_model import Lasso
 
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.model_selection import GridSearchCV
+
+# for gaussian process regression
+from sklearn.gaussian_process import GaussianProcessRegressor
+from sklearn.gaussian_process.kernels import RBF, ConstantKernel as C, Matern, RationalQuadratic, DotProduct
+from sklearn.preprocessing import StandardScaler
     
 def run(tissue, sign ,module , method, return_dict):
     # get data
@@ -47,6 +52,27 @@ def run(tissue, sign ,module , method, return_dict):
                       "n_estimators": [50, 100, 150],
                       "learning_rate": [0.05, 0.1, 0.15, 0.2]
                       }
+    elif method == 'gpr':
+        scaler_X = StandardScaler().fit(X_train)
+
+        # Apply the transformation
+        X_train_norm = scaler_X.transform(X_train)
+        X_test_norm = scaler_X.transform(X_test)
+
+        kernel_rbf = C(1.0, (1e-7, 1e3)) * RBF(length_scale_bounds = (1e-5, 1e2))
+        kernels_matern = [C(1.0, (1e-7, 1e3)) * Matern(length_scale_bounds= (1e-5, 1e2), nu= n) for n in [0.5, 1.5, 2.5]]
+        kernel_rq = C(1.0, (1e-7, 1e3)) * RationalQuadratic(alpha_bounds=(1e-5, 1e5), length_scale_bounds=(1e-5, 1e2))
+        kernel_dotproduct = C(1.0, (1e-7, 1e3)) * DotProduct(sigma_0_bounds=(1e-5, 1e2))
+
+        all_kernels = [kernel_rbf] + kernels_matern + [kernel_rq, kernel_dotproduct]
+
+        param_grid = {
+            "kernel": all_kernels,
+            "alpha": [1e-3, 1e-2, 0.1, 1, 10, 100]}
+
+        # Initialize GP Regressor
+        model = GaussianProcessRegressor(n_restarts_optimizer=5,normalize_y=True,random_state=rds)
+        
     else:
         raise ValueError('method "{}" not supported'.format(method))
 
@@ -54,12 +80,12 @@ def run(tissue, sign ,module , method, return_dict):
         Y_pred = {}
         for name in Y_train.keys():
             print(name)
-            gsh = GridSearchCV(estimator=model, param_grid=param_grid)
+            gsh = GridSearchCV(estimator=model, param_grid=param_grid,n_jobs=-1)
             gsh.fit(X_train, Y_train[name])
             Y_pred[name] = gsh.predict(X_test)
         Y_pred = pd.DataFrame.from_dict(Y_pred)
     else:
-        gsh = GridSearchCV(estimator=model, param_grid=param_grid)
+        gsh = GridSearchCV(estimator=model, param_grid=param_grid,n_jobs=-1)
         gsh.fit(X_train, Y_train)
 
         # predict
@@ -107,7 +133,7 @@ if __name__ == '__main__':
                 p = Process(target=run, args=(tissue, sign, module, method, return_dict))
                 process_lst.append(p)
 
-    batch_size = 5
+    batch_size = 2
     # run the processes and get their return values
     for i in range(0, len(process_lst), batch_size):
         batch = process_lst[i:i+batch_size]
