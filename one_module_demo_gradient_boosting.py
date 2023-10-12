@@ -38,8 +38,9 @@ for name in Y_train.keys():
     print(name)
     gsh = GridSearchCV(estimator=model, param_grid=param_grid)
     gsh.fit(X_train, Y_train[name])
+    # regressor = GradientBoostingRegressor(max_depth=3, n_estimators=100, random_state=0).fit(X_train, Y_train[name])
+    # regressor.fit(X_train, Y_train[name])
     Y_pred[name] = gsh.predict(X_test)
-    # regressor = GradientBoostingRegressor(n_estimators=100, random_state=42).fit(X_train, Y_train[name])
     # # gsh.fit(X_train, Y_train[name])
     # # predict
     # print("s")
