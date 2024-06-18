@@ -16,4 +16,4 @@ demo.py: an example of using KNN regression to predict the 10-week glucose level
 
 - We use 50 mice for testing, these 50 mice are the same across different tissues
 
-- All the methods and notebooks about data cleaning are in notebooks/ ot utils.py.
+- All the methods and notebooks about data cleaning are under notebooks/ or in utils.py.
